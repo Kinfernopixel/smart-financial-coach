@@ -1,0 +1,67 @@
+import csv, random, datetime, json
+from pathlib import Path
+
+CATEGORIES = [
+    "Food & Drink", "Transportation", "Groceries", "Subscriptions",
+    "Entertainment", "Income", "Rent", "Utilities", "Other"
+]
+
+MERCHANTS = {
+    "CoffeeHouse": ["CoffeeHouse", "Friends Cafe", "Brew Bros"],
+    "Spotify": ["Spotify", "MusicBox"],
+    "Netflix": ["Netflix"],
+    "Supermarket": ["Costco", "Safeway", "Market"],
+    "Uber": ["Uber", "Lyft"],
+    "Electric": ["PG&E", "PowerCo"],
+}
+
+def random_date(start, end):
+    return start + datetime.timedelta(days=random.randint(0, (end - start).days))
+
+def generate(n=500):
+    start = datetime.date.today() - datetime.timedelta(days=180)
+    end = datetime.date.today()
+    rows = []
+    for i in range(n):
+        cat = random.choices(
+            CATEGORIES, weights=[10, 8, 12, 6, 6, 5, 7, 5, 6]
+        )[0]
+        merchant = random.choice(
+            MERCHANTS.get("Supermarket") if cat == "Groceries" else sum(MERCHANTS.values(), [])
+        )
+        if cat == "Income":
+            amt = round(random.uniform(800, 4000), 2)
+        else:
+            amt = round(random.uniform(1, 200), 2)
+            amt *= -1  # Expenses are negative
+
+        date = random_date(start, end).isoformat()
+        rows.append({
+            "id": i + 1,
+            "date": date,
+            "merchant": merchant,
+            "category": cat,
+            "amount": amt
+        })
+    return rows
+
+if __name__ == '__main__':
+    # ✅ Always resolve to top-level /data directory
+    project_root = Path(__file__).resolve().parents[2]
+    data_dir = project_root / "data"
+    data_dir.mkdir(exist_ok=True)
+
+    json_path = data_dir / "sample_transactions.json"
+    csv_path = data_dir / "sample_transactions.csv"
+
+    rows = generate(800)
+
+    with open(json_path, 'w') as f:
+        json.dump(rows, f, indent=2)
+
+    with open(csv_path, 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=["id", "date", "merchant", "category", "amount"])
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"✅ Generated {len(rows)} transactions in {data_dir}")
