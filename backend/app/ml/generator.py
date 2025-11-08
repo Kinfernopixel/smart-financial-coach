@@ -1,4 +1,5 @@
 import csv, random, datetime, json
+from pathlib import Path
 
 CATEGORIES = [
     "Food & Drink", "Transportation", "Groceries", "Subscriptions",
@@ -45,10 +46,22 @@ def generate(n=500):
     return rows
 
 if __name__ == '__main__':
+    # ✅ Always resolve to top-level /data directory
+    project_root = Path(__file__).resolve().parents[2]
+    data_dir = project_root / "data"
+    data_dir.mkdir(exist_ok=True)
+
+    json_path = data_dir / "sample_transactions.json"
+    csv_path = data_dir / "sample_transactions.csv"
+
     rows = generate(800)
-    with open('../../data/sample_transactions.json', 'w') as f:
+
+    with open(json_path, 'w') as f:
         json.dump(rows, f, indent=2)
-    with open('../../data/sample_transactions.csv', 'w', newline='') as f:
+
+    with open(csv_path, 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=["id", "date", "merchant", "category", "amount"])
         writer.writeheader()
         writer.writerows(rows)
+
+    print(f"✅ Generated {len(rows)} transactions in {data_dir}")
