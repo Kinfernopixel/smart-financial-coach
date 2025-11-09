@@ -55,6 +55,9 @@ Add authentication and user profiles
 Integrate charts for visualization (Recharts / Chart.js)
 Expand goal forecasting using AI
 
+## 🎥 Project Demo
+Watch the full video demo here: [Smart Financial Coach Demo](https://youtu.be/1F8zo7IW8dQ)
+
 🧑‍💻 Author
 Kanan Shah
 Smart Financial Coach — a modern full-stack project combining AI-driven insights, data visualization, and financial goal management.
