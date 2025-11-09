@@ -46,7 +46,7 @@ def generate(n=500):
     return rows
 
 if __name__ == '__main__':
-    # ✅ Always resolve to top-level /data directory
+    # Always resolve to top-level /data directory
     project_root = Path(__file__).resolve().parents[2]
     data_dir = project_root / "data"
     data_dir.mkdir(exist_ok=True)
@@ -64,4 +64,4 @@ if __name__ == '__main__':
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"✅ Generated {len(rows)} transactions in {data_dir}")
+    print(f"Generated {len(rows)} transactions in {data_dir}")

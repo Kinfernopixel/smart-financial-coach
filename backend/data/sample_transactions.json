@@ -1,0 +1,5619 @@
+[
+  {
+    "id": 1,
+    "date": "2025-07-23",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -66.7
+  },
+  {
+    "id": 2,
+    "date": "2025-05-14",
+    "merchant": "PG&E",
+    "category": "Subscriptions",
+    "amount": -18.48
+  },
+  {
+    "id": 3,
+    "date": "2025-09-17",
+    "merchant": "PG&E",
+    "category": "Subscriptions",
+    "amount": -54.59
+  },
+  {
+    "id": 4,
+    "date": "2025-08-11",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -122.06
+  },
+  {
+    "id": 5,
+    "date": "2025-06-02",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -161.8
+  },
+  {
+    "id": 6,
+    "date": "2025-06-18",
+    "merchant": "Lyft",
+    "category": "Utilities",
+    "amount": -151.57
+  },
+  {
+    "id": 7,
+    "date": "2025-06-26",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -45.13
+  },
+  {
+    "id": 8,
+    "date": "2025-10-04",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -176.5
+  },
+  {
+    "id": 9,
+    "date": "2025-10-11",
+    "merchant": "Spotify",
+    "category": "Rent",
+    "amount": -45.67
+  },
+  {
+    "id": 10,
+    "date": "2025-08-23",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -42.99
+  },
+  {
+    "id": 11,
+    "date": "2025-10-19",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -69.09
+  },
+  {
+    "id": 12,
+    "date": "2025-07-17",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -148.81
+  },
+  {
+    "id": 13,
+    "date": "2025-05-24",
+    "merchant": "PowerCo",
+    "category": "Subscriptions",
+    "amount": -121.44
+  },
+  {
+    "id": 14,
+    "date": "2025-06-03",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "amount": -111.32
+  },
+  {
+    "id": 15,
+    "date": "2025-08-24",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -111.13
+  },
+  {
+    "id": 16,
+    "date": "2025-06-11",
+    "merchant": "Lyft",
+    "category": "Rent",
+    "amount": -99.68
+  },
+  {
+    "id": 17,
+    "date": "2025-10-25",
+    "merchant": "Costco",
+    "category": "Income",
+    "amount": 3750.34
+  },
+  {
+    "id": 18,
+    "date": "2025-09-24",
+    "merchant": "PG&E",
+    "category": "Subscriptions",
+    "amount": -61.98
+  },
+  {
+    "id": 19,
+    "date": "2025-08-07",
+    "merchant": "Lyft",
+    "category": "Utilities",
+    "amount": -172.08
+  },
+  {
+    "id": 20,
+    "date": "2025-06-06",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -147.5
+  },
+  {
+    "id": 21,
+    "date": "2025-06-16",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -198.03
+  },
+  {
+    "id": 22,
+    "date": "2025-08-01",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -159.4
+  },
+  {
+    "id": 23,
+    "date": "2025-10-23",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -30.15
+  },
+  {
+    "id": 24,
+    "date": "2025-09-06",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -7.84
+  },
+  {
+    "id": 25,
+    "date": "2025-08-23",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -111.84
+  },
+  {
+    "id": 26,
+    "date": "2025-10-02",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -101.14
+  },
+  {
+    "id": 27,
+    "date": "2025-05-27",
+    "merchant": "Brew Bros",
+    "category": "Income",
+    "amount": 1044.62
+  },
+  {
+    "id": 28,
+    "date": "2025-05-31",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -188.06
+  },
+  {
+    "id": 29,
+    "date": "2025-10-17",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -150.6
+  },
+  {
+    "id": 30,
+    "date": "2025-07-02",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -123.41
+  },
+  {
+    "id": 31,
+    "date": "2025-10-12",
+    "merchant": "Spotify",
+    "category": "Utilities",
+    "amount": -167.7
+  },
+  {
+    "id": 32,
+    "date": "2025-08-23",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -151.22
+  },
+  {
+    "id": 33,
+    "date": "2025-07-08",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -141.08
+  },
+  {
+    "id": 34,
+    "date": "2025-11-07",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -120.08
+  },
+  {
+    "id": 35,
+    "date": "2025-10-09",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -118.93
+  },
+  {
+    "id": 36,
+    "date": "2025-07-18",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -127.2
+  },
+  {
+    "id": 37,
+    "date": "2025-08-26",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -159.56
+  },
+  {
+    "id": 38,
+    "date": "2025-10-02",
+    "merchant": "Costco",
+    "category": "Transportation",
+    "amount": -77.66
+  },
+  {
+    "id": 39,
+    "date": "2025-09-21",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -147.53
+  },
+  {
+    "id": 40,
+    "date": "2025-06-05",
+    "merchant": "Netflix",
+    "category": "Income",
+    "amount": 3987.43
+  },
+  {
+    "id": 41,
+    "date": "2025-07-30",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -93.94
+  },
+  {
+    "id": 42,
+    "date": "2025-07-06",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -112.93
+  },
+  {
+    "id": 43,
+    "date": "2025-08-03",
+    "merchant": "PowerCo",
+    "category": "Income",
+    "amount": 1886.64
+  },
+  {
+    "id": 44,
+    "date": "2025-09-22",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -139.49
+  },
+  {
+    "id": 45,
+    "date": "2025-05-30",
+    "merchant": "Netflix",
+    "category": "Transportation",
+    "amount": -24.74
+  },
+  {
+    "id": 46,
+    "date": "2025-08-26",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -111.24
+  },
+  {
+    "id": 47,
+    "date": "2025-05-20",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -97.06
+  },
+  {
+    "id": 48,
+    "date": "2025-09-08",
+    "merchant": "Costco",
+    "category": "Other",
+    "amount": -115.55
+  },
+  {
+    "id": 49,
+    "date": "2025-05-13",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -142.44
+  },
+  {
+    "id": 50,
+    "date": "2025-09-27",
+    "merchant": "Friends Cafe",
+    "category": "Utilities",
+    "amount": -134.94
+  },
+  {
+    "id": 51,
+    "date": "2025-11-06",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -130.35
+  },
+  {
+    "id": 52,
+    "date": "2025-08-01",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -93.67
+  },
+  {
+    "id": 53,
+    "date": "2025-06-06",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -39.22
+  },
+  {
+    "id": 54,
+    "date": "2025-07-24",
+    "merchant": "Friends Cafe",
+    "category": "Transportation",
+    "amount": -108.79
+  },
+  {
+    "id": 55,
+    "date": "2025-10-13",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -70.2
+  },
+  {
+    "id": 56,
+    "date": "2025-06-06",
+    "merchant": "Costco",
+    "category": "Subscriptions",
+    "amount": -60.31
+  },
+  {
+    "id": 57,
+    "date": "2025-07-27",
+    "merchant": "MusicBox",
+    "category": "Other",
+    "amount": -191.38
+  },
+  {
+    "id": 58,
+    "date": "2025-06-16",
+    "merchant": "Safeway",
+    "category": "Rent",
+    "amount": -14.19
+  },
+  {
+    "id": 59,
+    "date": "2025-07-24",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -171.62
+  },
+  {
+    "id": 60,
+    "date": "2025-07-20",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -169.9
+  },
+  {
+    "id": 61,
+    "date": "2025-10-13",
+    "merchant": "Safeway",
+    "category": "Other",
+    "amount": -41.66
+  },
+  {
+    "id": 62,
+    "date": "2025-09-14",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -60.24
+  },
+  {
+    "id": 63,
+    "date": "2025-05-25",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -53.85
+  },
+  {
+    "id": 64,
+    "date": "2025-08-14",
+    "merchant": "PG&E",
+    "category": "Subscriptions",
+    "amount": -66.72
+  },
+  {
+    "id": 65,
+    "date": "2025-06-01",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -151.44
+  },
+  {
+    "id": 66,
+    "date": "2025-06-11",
+    "merchant": "Safeway",
+    "category": "Transportation",
+    "amount": -171.31
+  },
+  {
+    "id": 67,
+    "date": "2025-06-20",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -147.27
+  },
+  {
+    "id": 68,
+    "date": "2025-06-17",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -85.98
+  },
+  {
+    "id": 69,
+    "date": "2025-05-29",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -23.43
+  },
+  {
+    "id": 70,
+    "date": "2025-09-07",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -40.57
+  },
+  {
+    "id": 71,
+    "date": "2025-11-02",
+    "merchant": "Friends Cafe",
+    "category": "Subscriptions",
+    "amount": -31.19
+  },
+  {
+    "id": 72,
+    "date": "2025-05-27",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -76.43
+  },
+  {
+    "id": 73,
+    "date": "2025-08-28",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -140.34
+  },
+  {
+    "id": 74,
+    "date": "2025-09-06",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": -173.54
+  },
+  {
+    "id": 75,
+    "date": "2025-07-12",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -169.18
+  },
+  {
+    "id": 76,
+    "date": "2025-05-22",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -18.27
+  },
+  {
+    "id": 77,
+    "date": "2025-06-06",
+    "merchant": "Market",
+    "category": "Other",
+    "amount": -103.15
+  },
+  {
+    "id": 78,
+    "date": "2025-11-06",
+    "merchant": "Costco",
+    "category": "Transportation",
+    "amount": -28.83
+  },
+  {
+    "id": 79,
+    "date": "2025-08-24",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -101.98
+  },
+  {
+    "id": 80,
+    "date": "2025-09-02",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -120.94
+  },
+  {
+    "id": 81,
+    "date": "2025-08-18",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -45.32
+  },
+  {
+    "id": 82,
+    "date": "2025-09-12",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -36.06
+  },
+  {
+    "id": 83,
+    "date": "2025-10-01",
+    "merchant": "Spotify",
+    "category": "Other",
+    "amount": -133.43
+  },
+  {
+    "id": 84,
+    "date": "2025-06-21",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -74.24
+  },
+  {
+    "id": 85,
+    "date": "2025-06-20",
+    "merchant": "Uber",
+    "category": "Income",
+    "amount": 1151.86
+  },
+  {
+    "id": 86,
+    "date": "2025-10-16",
+    "merchant": "Safeway",
+    "category": "Other",
+    "amount": -58.28
+  },
+  {
+    "id": 87,
+    "date": "2025-08-10",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -47.45
+  },
+  {
+    "id": 88,
+    "date": "2025-10-25",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -83.99
+  },
+  {
+    "id": 89,
+    "date": "2025-09-20",
+    "merchant": "Costco",
+    "category": "Other",
+    "amount": -125.68
+  },
+  {
+    "id": 90,
+    "date": "2025-09-27",
+    "merchant": "CoffeeHouse",
+    "category": "Other",
+    "amount": -13.64
+  },
+  {
+    "id": 91,
+    "date": "2025-05-14",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -132.82
+  },
+  {
+    "id": 92,
+    "date": "2025-09-18",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -91.94
+  },
+  {
+    "id": 93,
+    "date": "2025-08-27",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -17.45
+  },
+  {
+    "id": 94,
+    "date": "2025-05-30",
+    "merchant": "Lyft",
+    "category": "Rent",
+    "amount": -87.41
+  },
+  {
+    "id": 95,
+    "date": "2025-07-28",
+    "merchant": "PG&E",
+    "category": "Entertainment",
+    "amount": -15.85
+  },
+  {
+    "id": 96,
+    "date": "2025-06-19",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -14.73
+  },
+  {
+    "id": 97,
+    "date": "2025-08-27",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -195.6
+  },
+  {
+    "id": 98,
+    "date": "2025-06-12",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -166.92
+  },
+  {
+    "id": 99,
+    "date": "2025-09-26",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -7.01
+  },
+  {
+    "id": 100,
+    "date": "2025-09-04",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -39.66
+  },
+  {
+    "id": 101,
+    "date": "2025-08-08",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -124.03
+  },
+  {
+    "id": 102,
+    "date": "2025-07-14",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -78.47
+  },
+  {
+    "id": 103,
+    "date": "2025-08-10",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -55.96
+  },
+  {
+    "id": 104,
+    "date": "2025-07-20",
+    "merchant": "Costco",
+    "category": "Transportation",
+    "amount": -35.47
+  },
+  {
+    "id": 105,
+    "date": "2025-05-25",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -188.19
+  },
+  {
+    "id": 106,
+    "date": "2025-07-10",
+    "merchant": "Market",
+    "category": "Subscriptions",
+    "amount": -41.99
+  },
+  {
+    "id": 107,
+    "date": "2025-06-13",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -34.09
+  },
+  {
+    "id": 108,
+    "date": "2025-06-26",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -199.73
+  },
+  {
+    "id": 109,
+    "date": "2025-08-25",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -115.34
+  },
+  {
+    "id": 110,
+    "date": "2025-09-05",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -103.58
+  },
+  {
+    "id": 111,
+    "date": "2025-06-16",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -56.51
+  },
+  {
+    "id": 112,
+    "date": "2025-10-01",
+    "merchant": "Lyft",
+    "category": "Subscriptions",
+    "amount": -22.74
+  },
+  {
+    "id": 113,
+    "date": "2025-05-17",
+    "merchant": "CoffeeHouse",
+    "category": "Entertainment",
+    "amount": -13.66
+  },
+  {
+    "id": 114,
+    "date": "2025-06-20",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -31.74
+  },
+  {
+    "id": 115,
+    "date": "2025-05-15",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -150.94
+  },
+  {
+    "id": 116,
+    "date": "2025-06-15",
+    "merchant": "CoffeeHouse",
+    "category": "Other",
+    "amount": -178.38
+  },
+  {
+    "id": 117,
+    "date": "2025-06-20",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -30.15
+  },
+  {
+    "id": 118,
+    "date": "2025-10-02",
+    "merchant": "PG&E",
+    "category": "Other",
+    "amount": -56.01
+  },
+  {
+    "id": 119,
+    "date": "2025-07-20",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -128.82
+  },
+  {
+    "id": 120,
+    "date": "2025-10-27",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -148.22
+  },
+  {
+    "id": 121,
+    "date": "2025-09-03",
+    "merchant": "Market",
+    "category": "Subscriptions",
+    "amount": -103.27
+  },
+  {
+    "id": 122,
+    "date": "2025-07-26",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -126.03
+  },
+  {
+    "id": 123,
+    "date": "2025-08-24",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -195.4
+  },
+  {
+    "id": 124,
+    "date": "2025-09-08",
+    "merchant": "Netflix",
+    "category": "Transportation",
+    "amount": -85.61
+  },
+  {
+    "id": 125,
+    "date": "2025-05-17",
+    "merchant": "Friends Cafe",
+    "category": "Entertainment",
+    "amount": -151.71
+  },
+  {
+    "id": 126,
+    "date": "2025-06-09",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": -107.22
+  },
+  {
+    "id": 127,
+    "date": "2025-06-07",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -136.26
+  },
+  {
+    "id": 128,
+    "date": "2025-07-23",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -111.02
+  },
+  {
+    "id": 129,
+    "date": "2025-08-28",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -61.22
+  },
+  {
+    "id": 130,
+    "date": "2025-09-20",
+    "merchant": "PowerCo",
+    "category": "Income",
+    "amount": 1660.22
+  },
+  {
+    "id": 131,
+    "date": "2025-07-30",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -11.51
+  },
+  {
+    "id": 132,
+    "date": "2025-07-17",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -104.5
+  },
+  {
+    "id": 133,
+    "date": "2025-07-18",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -107.49
+  },
+  {
+    "id": 134,
+    "date": "2025-05-31",
+    "merchant": "PG&E",
+    "category": "Utilities",
+    "amount": -46.07
+  },
+  {
+    "id": 135,
+    "date": "2025-10-10",
+    "merchant": "Uber",
+    "category": "Entertainment",
+    "amount": -39.0
+  },
+  {
+    "id": 136,
+    "date": "2025-06-09",
+    "merchant": "Friends Cafe",
+    "category": "Other",
+    "amount": -91.11
+  },
+  {
+    "id": 137,
+    "date": "2025-07-01",
+    "merchant": "Safeway",
+    "category": "Transportation",
+    "amount": -193.93
+  },
+  {
+    "id": 138,
+    "date": "2025-08-09",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -119.93
+  },
+  {
+    "id": 139,
+    "date": "2025-08-01",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -190.38
+  },
+  {
+    "id": 140,
+    "date": "2025-06-22",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -70.1
+  },
+  {
+    "id": 141,
+    "date": "2025-08-09",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -182.2
+  },
+  {
+    "id": 142,
+    "date": "2025-11-05",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -132.93
+  },
+  {
+    "id": 143,
+    "date": "2025-08-14",
+    "merchant": "Spotify",
+    "category": "Utilities",
+    "amount": -145.08
+  },
+  {
+    "id": 144,
+    "date": "2025-10-30",
+    "merchant": "Market",
+    "category": "Entertainment",
+    "amount": -42.16
+  },
+  {
+    "id": 145,
+    "date": "2025-08-14",
+    "merchant": "CoffeeHouse",
+    "category": "Entertainment",
+    "amount": -115.91
+  },
+  {
+    "id": 146,
+    "date": "2025-06-24",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -110.91
+  },
+  {
+    "id": 147,
+    "date": "2025-09-30",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -9.24
+  },
+  {
+    "id": 148,
+    "date": "2025-05-17",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -4.52
+  },
+  {
+    "id": 149,
+    "date": "2025-09-09",
+    "merchant": "Safeway",
+    "category": "Transportation",
+    "amount": -189.25
+  },
+  {
+    "id": 150,
+    "date": "2025-07-31",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -114.14
+  },
+  {
+    "id": 151,
+    "date": "2025-07-31",
+    "merchant": "Netflix",
+    "category": "Transportation",
+    "amount": -53.62
+  },
+  {
+    "id": 152,
+    "date": "2025-08-31",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -56.07
+  },
+  {
+    "id": 153,
+    "date": "2025-07-15",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -197.25
+  },
+  {
+    "id": 154,
+    "date": "2025-09-21",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": -152.54
+  },
+  {
+    "id": 155,
+    "date": "2025-05-24",
+    "merchant": "Friends Cafe",
+    "category": "Subscriptions",
+    "amount": -95.49
+  },
+  {
+    "id": 156,
+    "date": "2025-09-22",
+    "merchant": "Safeway",
+    "category": "Other",
+    "amount": -6.44
+  },
+  {
+    "id": 157,
+    "date": "2025-07-11",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -71.83
+  },
+  {
+    "id": 158,
+    "date": "2025-07-17",
+    "merchant": "Friends Cafe",
+    "category": "Entertainment",
+    "amount": -36.46
+  },
+  {
+    "id": 159,
+    "date": "2025-07-08",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -42.11
+  },
+  {
+    "id": 160,
+    "date": "2025-07-10",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -178.0
+  },
+  {
+    "id": 161,
+    "date": "2025-11-08",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -57.34
+  },
+  {
+    "id": 162,
+    "date": "2025-07-15",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -51.01
+  },
+  {
+    "id": 163,
+    "date": "2025-06-14",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -103.3
+  },
+  {
+    "id": 164,
+    "date": "2025-10-03",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -104.19
+  },
+  {
+    "id": 165,
+    "date": "2025-08-29",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -128.26
+  },
+  {
+    "id": 166,
+    "date": "2025-06-26",
+    "merchant": "PowerCo",
+    "category": "Utilities",
+    "amount": -176.78
+  },
+  {
+    "id": 167,
+    "date": "2025-05-25",
+    "merchant": "Spotify",
+    "category": "Other",
+    "amount": -130.36
+  },
+  {
+    "id": 168,
+    "date": "2025-08-27",
+    "merchant": "Uber",
+    "category": "Other",
+    "amount": -184.71
+  },
+  {
+    "id": 169,
+    "date": "2025-09-09",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -125.85
+  },
+  {
+    "id": 170,
+    "date": "2025-06-01",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -20.98
+  },
+  {
+    "id": 171,
+    "date": "2025-05-22",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -33.36
+  },
+  {
+    "id": 172,
+    "date": "2025-08-12",
+    "merchant": "PG&E",
+    "category": "Entertainment",
+    "amount": -150.42
+  },
+  {
+    "id": 173,
+    "date": "2025-06-10",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -134.97
+  },
+  {
+    "id": 174,
+    "date": "2025-11-07",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -158.08
+  },
+  {
+    "id": 175,
+    "date": "2025-10-18",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -146.73
+  },
+  {
+    "id": 176,
+    "date": "2025-06-28",
+    "merchant": "PowerCo",
+    "category": "Income",
+    "amount": 3257.99
+  },
+  {
+    "id": 177,
+    "date": "2025-11-03",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -186.92
+  },
+  {
+    "id": 178,
+    "date": "2025-06-26",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -93.02
+  },
+  {
+    "id": 179,
+    "date": "2025-11-07",
+    "merchant": "Safeway",
+    "category": "Rent",
+    "amount": -109.92
+  },
+  {
+    "id": 180,
+    "date": "2025-07-05",
+    "merchant": "Uber",
+    "category": "Food & Drink",
+    "amount": -113.86
+  },
+  {
+    "id": 181,
+    "date": "2025-07-18",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -6.24
+  },
+  {
+    "id": 182,
+    "date": "2025-06-13",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -137.84
+  },
+  {
+    "id": 183,
+    "date": "2025-06-21",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -109.77
+  },
+  {
+    "id": 184,
+    "date": "2025-08-21",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -178.28
+  },
+  {
+    "id": 185,
+    "date": "2025-07-19",
+    "merchant": "Uber",
+    "category": "Utilities",
+    "amount": -154.8
+  },
+  {
+    "id": 186,
+    "date": "2025-08-03",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -124.63
+  },
+  {
+    "id": 187,
+    "date": "2025-10-07",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -144.26
+  },
+  {
+    "id": 188,
+    "date": "2025-06-30",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -62.32
+  },
+  {
+    "id": 189,
+    "date": "2025-09-17",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -5.38
+  },
+  {
+    "id": 190,
+    "date": "2025-08-18",
+    "merchant": "Friends Cafe",
+    "category": "Utilities",
+    "amount": -95.86
+  },
+  {
+    "id": 191,
+    "date": "2025-05-31",
+    "merchant": "Safeway",
+    "category": "Food & Drink",
+    "amount": -45.86
+  },
+  {
+    "id": 192,
+    "date": "2025-06-10",
+    "merchant": "Brew Bros",
+    "category": "Subscriptions",
+    "amount": -16.66
+  },
+  {
+    "id": 193,
+    "date": "2025-08-09",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -115.37
+  },
+  {
+    "id": 194,
+    "date": "2025-08-05",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -156.55
+  },
+  {
+    "id": 195,
+    "date": "2025-09-07",
+    "merchant": "Netflix",
+    "category": "Rent",
+    "amount": -178.88
+  },
+  {
+    "id": 196,
+    "date": "2025-10-12",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -11.57
+  },
+  {
+    "id": 197,
+    "date": "2025-07-20",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -184.33
+  },
+  {
+    "id": 198,
+    "date": "2025-07-29",
+    "merchant": "PowerCo",
+    "category": "Subscriptions",
+    "amount": -148.1
+  },
+  {
+    "id": 199,
+    "date": "2025-06-06",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -4.11
+  },
+  {
+    "id": 200,
+    "date": "2025-06-27",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -77.96
+  },
+  {
+    "id": 201,
+    "date": "2025-05-12",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -48.51
+  },
+  {
+    "id": 202,
+    "date": "2025-10-30",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -159.55
+  },
+  {
+    "id": 203,
+    "date": "2025-10-30",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -197.32
+  },
+  {
+    "id": 204,
+    "date": "2025-08-22",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -170.35
+  },
+  {
+    "id": 205,
+    "date": "2025-10-25",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -15.5
+  },
+  {
+    "id": 206,
+    "date": "2025-10-04",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -105.52
+  },
+  {
+    "id": 207,
+    "date": "2025-10-29",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -42.72
+  },
+  {
+    "id": 208,
+    "date": "2025-06-27",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -158.31
+  },
+  {
+    "id": 209,
+    "date": "2025-08-30",
+    "merchant": "Friends Cafe",
+    "category": "Subscriptions",
+    "amount": -157.42
+  },
+  {
+    "id": 210,
+    "date": "2025-07-03",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -98.62
+  },
+  {
+    "id": 211,
+    "date": "2025-06-26",
+    "merchant": "Lyft",
+    "category": "Entertainment",
+    "amount": -94.5
+  },
+  {
+    "id": 212,
+    "date": "2025-07-06",
+    "merchant": "MusicBox",
+    "category": "Income",
+    "amount": 1750.66
+  },
+  {
+    "id": 213,
+    "date": "2025-07-04",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -35.58
+  },
+  {
+    "id": 214,
+    "date": "2025-10-21",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -32.44
+  },
+  {
+    "id": 215,
+    "date": "2025-10-10",
+    "merchant": "Lyft",
+    "category": "Subscriptions",
+    "amount": -67.53
+  },
+  {
+    "id": 216,
+    "date": "2025-06-15",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 2035.13
+  },
+  {
+    "id": 217,
+    "date": "2025-10-26",
+    "merchant": "Netflix",
+    "category": "Rent",
+    "amount": -163.75
+  },
+  {
+    "id": 218,
+    "date": "2025-08-18",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -104.42
+  },
+  {
+    "id": 219,
+    "date": "2025-06-12",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -70.66
+  },
+  {
+    "id": 220,
+    "date": "2025-07-15",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -63.19
+  },
+  {
+    "id": 221,
+    "date": "2025-05-25",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -20.45
+  },
+  {
+    "id": 222,
+    "date": "2025-10-17",
+    "merchant": "Market",
+    "category": "Subscriptions",
+    "amount": -120.81
+  },
+  {
+    "id": 223,
+    "date": "2025-07-05",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -135.53
+  },
+  {
+    "id": 224,
+    "date": "2025-07-02",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -126.92
+  },
+  {
+    "id": 225,
+    "date": "2025-11-05",
+    "merchant": "Netflix",
+    "category": "Transportation",
+    "amount": -48.89
+  },
+  {
+    "id": 226,
+    "date": "2025-09-17",
+    "merchant": "Costco",
+    "category": "Subscriptions",
+    "amount": -152.01
+  },
+  {
+    "id": 227,
+    "date": "2025-06-11",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -91.47
+  },
+  {
+    "id": 228,
+    "date": "2025-08-18",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "amount": -55.99
+  },
+  {
+    "id": 229,
+    "date": "2025-08-14",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -125.79
+  },
+  {
+    "id": 230,
+    "date": "2025-11-03",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -160.28
+  },
+  {
+    "id": 231,
+    "date": "2025-07-03",
+    "merchant": "Brew Bros",
+    "category": "Income",
+    "amount": 1713.32
+  },
+  {
+    "id": 232,
+    "date": "2025-09-24",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -123.3
+  },
+  {
+    "id": 233,
+    "date": "2025-06-16",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -121.57
+  },
+  {
+    "id": 234,
+    "date": "2025-06-27",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -92.06
+  },
+  {
+    "id": 235,
+    "date": "2025-11-08",
+    "merchant": "PG&E",
+    "category": "Subscriptions",
+    "amount": -122.94
+  },
+  {
+    "id": 236,
+    "date": "2025-07-10",
+    "merchant": "Uber",
+    "category": "Food & Drink",
+    "amount": -113.62
+  },
+  {
+    "id": 237,
+    "date": "2025-07-03",
+    "merchant": "Costco",
+    "category": "Income",
+    "amount": 3981.45
+  },
+  {
+    "id": 238,
+    "date": "2025-10-04",
+    "merchant": "Friends Cafe",
+    "category": "Food & Drink",
+    "amount": -114.7
+  },
+  {
+    "id": 239,
+    "date": "2025-09-05",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -62.38
+  },
+  {
+    "id": 240,
+    "date": "2025-08-20",
+    "merchant": "MusicBox",
+    "category": "Other",
+    "amount": -85.11
+  },
+  {
+    "id": 241,
+    "date": "2025-08-17",
+    "merchant": "MusicBox",
+    "category": "Other",
+    "amount": -138.63
+  },
+  {
+    "id": 242,
+    "date": "2025-08-28",
+    "merchant": "Costco",
+    "category": "Utilities",
+    "amount": -159.53
+  },
+  {
+    "id": 243,
+    "date": "2025-07-09",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -49.97
+  },
+  {
+    "id": 244,
+    "date": "2025-07-29",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -154.41
+  },
+  {
+    "id": 245,
+    "date": "2025-10-24",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -86.11
+  },
+  {
+    "id": 246,
+    "date": "2025-09-19",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -12.32
+  },
+  {
+    "id": 247,
+    "date": "2025-05-30",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -134.76
+  },
+  {
+    "id": 248,
+    "date": "2025-05-28",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -158.47
+  },
+  {
+    "id": 249,
+    "date": "2025-09-19",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -167.52
+  },
+  {
+    "id": 250,
+    "date": "2025-06-10",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -152.19
+  },
+  {
+    "id": 251,
+    "date": "2025-05-21",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -155.67
+  },
+  {
+    "id": 252,
+    "date": "2025-07-22",
+    "merchant": "Market",
+    "category": "Income",
+    "amount": 1808.42
+  },
+  {
+    "id": 253,
+    "date": "2025-11-05",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -41.84
+  },
+  {
+    "id": 254,
+    "date": "2025-08-15",
+    "merchant": "Safeway",
+    "category": "Utilities",
+    "amount": -64.02
+  },
+  {
+    "id": 255,
+    "date": "2025-09-05",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -128.14
+  },
+  {
+    "id": 256,
+    "date": "2025-06-10",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -114.86
+  },
+  {
+    "id": 257,
+    "date": "2025-10-14",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -47.78
+  },
+  {
+    "id": 258,
+    "date": "2025-09-22",
+    "merchant": "CoffeeHouse",
+    "category": "Utilities",
+    "amount": -177.07
+  },
+  {
+    "id": 259,
+    "date": "2025-10-03",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -126.75
+  },
+  {
+    "id": 260,
+    "date": "2025-10-14",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -193.14
+  },
+  {
+    "id": 261,
+    "date": "2025-10-15",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -8.31
+  },
+  {
+    "id": 262,
+    "date": "2025-05-28",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -190.05
+  },
+  {
+    "id": 263,
+    "date": "2025-09-24",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -191.25
+  },
+  {
+    "id": 264,
+    "date": "2025-08-06",
+    "merchant": "Costco",
+    "category": "Transportation",
+    "amount": -39.55
+  },
+  {
+    "id": 265,
+    "date": "2025-05-29",
+    "merchant": "Safeway",
+    "category": "Income",
+    "amount": 3626.0
+  },
+  {
+    "id": 266,
+    "date": "2025-09-14",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -74.55
+  },
+  {
+    "id": 267,
+    "date": "2025-10-11",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -34.76
+  },
+  {
+    "id": 268,
+    "date": "2025-06-26",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -102.58
+  },
+  {
+    "id": 269,
+    "date": "2025-09-27",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -109.57
+  },
+  {
+    "id": 270,
+    "date": "2025-08-07",
+    "merchant": "Safeway",
+    "category": "Transportation",
+    "amount": -8.3
+  },
+  {
+    "id": 271,
+    "date": "2025-06-27",
+    "merchant": "Friends Cafe",
+    "category": "Utilities",
+    "amount": -53.05
+  },
+  {
+    "id": 272,
+    "date": "2025-11-01",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -178.38
+  },
+  {
+    "id": 273,
+    "date": "2025-07-31",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -136.94
+  },
+  {
+    "id": 274,
+    "date": "2025-10-04",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -73.9
+  },
+  {
+    "id": 275,
+    "date": "2025-05-25",
+    "merchant": "PG&E",
+    "category": "Income",
+    "amount": 2046.54
+  },
+  {
+    "id": 276,
+    "date": "2025-05-13",
+    "merchant": "Safeway",
+    "category": "Food & Drink",
+    "amount": -16.11
+  },
+  {
+    "id": 277,
+    "date": "2025-06-14",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": -5.61
+  },
+  {
+    "id": 278,
+    "date": "2025-08-01",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -106.57
+  },
+  {
+    "id": 279,
+    "date": "2025-06-28",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -128.89
+  },
+  {
+    "id": 280,
+    "date": "2025-10-18",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -106.75
+  },
+  {
+    "id": 281,
+    "date": "2025-11-02",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -86.44
+  },
+  {
+    "id": 282,
+    "date": "2025-10-08",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -20.43
+  },
+  {
+    "id": 283,
+    "date": "2025-09-10",
+    "merchant": "Lyft",
+    "category": "Entertainment",
+    "amount": -188.41
+  },
+  {
+    "id": 284,
+    "date": "2025-07-25",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -179.48
+  },
+  {
+    "id": 285,
+    "date": "2025-06-11",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -4.72
+  },
+  {
+    "id": 286,
+    "date": "2025-07-03",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -8.83
+  },
+  {
+    "id": 287,
+    "date": "2025-09-03",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -144.12
+  },
+  {
+    "id": 288,
+    "date": "2025-08-15",
+    "merchant": "CoffeeHouse",
+    "category": "Income",
+    "amount": 1298.8
+  },
+  {
+    "id": 289,
+    "date": "2025-09-24",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -162.7
+  },
+  {
+    "id": 290,
+    "date": "2025-05-12",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -123.16
+  },
+  {
+    "id": 291,
+    "date": "2025-09-16",
+    "merchant": "Lyft",
+    "category": "Utilities",
+    "amount": -118.65
+  },
+  {
+    "id": 292,
+    "date": "2025-05-31",
+    "merchant": "Netflix",
+    "category": "Rent",
+    "amount": -65.08
+  },
+  {
+    "id": 293,
+    "date": "2025-08-16",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -94.67
+  },
+  {
+    "id": 294,
+    "date": "2025-08-30",
+    "merchant": "PG&E",
+    "category": "Other",
+    "amount": -180.37
+  },
+  {
+    "id": 295,
+    "date": "2025-07-11",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -193.54
+  },
+  {
+    "id": 296,
+    "date": "2025-09-01",
+    "merchant": "Safeway",
+    "category": "Entertainment",
+    "amount": -39.05
+  },
+  {
+    "id": 297,
+    "date": "2025-09-11",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -169.16
+  },
+  {
+    "id": 298,
+    "date": "2025-05-13",
+    "merchant": "Market",
+    "category": "Income",
+    "amount": 3062.79
+  },
+  {
+    "id": 299,
+    "date": "2025-07-01",
+    "merchant": "Uber",
+    "category": "Utilities",
+    "amount": -54.74
+  },
+  {
+    "id": 300,
+    "date": "2025-09-29",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -22.09
+  },
+  {
+    "id": 301,
+    "date": "2025-07-20",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -185.0
+  },
+  {
+    "id": 302,
+    "date": "2025-05-23",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -147.33
+  },
+  {
+    "id": 303,
+    "date": "2025-06-02",
+    "merchant": "PG&E",
+    "category": "Utilities",
+    "amount": -27.86
+  },
+  {
+    "id": 304,
+    "date": "2025-08-05",
+    "merchant": "Market",
+    "category": "Other",
+    "amount": -62.26
+  },
+  {
+    "id": 305,
+    "date": "2025-07-08",
+    "merchant": "Uber",
+    "category": "Utilities",
+    "amount": -19.09
+  },
+  {
+    "id": 306,
+    "date": "2025-08-09",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -9.75
+  },
+  {
+    "id": 307,
+    "date": "2025-10-21",
+    "merchant": "PG&E",
+    "category": "Other",
+    "amount": -84.6
+  },
+  {
+    "id": 308,
+    "date": "2025-05-29",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -77.41
+  },
+  {
+    "id": 309,
+    "date": "2025-11-07",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -112.98
+  },
+  {
+    "id": 310,
+    "date": "2025-10-28",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": -91.42
+  },
+  {
+    "id": 311,
+    "date": "2025-09-19",
+    "merchant": "Lyft",
+    "category": "Income",
+    "amount": 2290.15
+  },
+  {
+    "id": 312,
+    "date": "2025-09-20",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -130.65
+  },
+  {
+    "id": 313,
+    "date": "2025-06-21",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "amount": -124.32
+  },
+  {
+    "id": 314,
+    "date": "2025-06-16",
+    "merchant": "Safeway",
+    "category": "Transportation",
+    "amount": -172.11
+  },
+  {
+    "id": 315,
+    "date": "2025-08-12",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -151.88
+  },
+  {
+    "id": 316,
+    "date": "2025-08-28",
+    "merchant": "Spotify",
+    "category": "Other",
+    "amount": -140.32
+  },
+  {
+    "id": 317,
+    "date": "2025-05-25",
+    "merchant": "Costco",
+    "category": "Utilities",
+    "amount": -142.38
+  },
+  {
+    "id": 318,
+    "date": "2025-05-12",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -195.18
+  },
+  {
+    "id": 319,
+    "date": "2025-09-26",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -21.44
+  },
+  {
+    "id": 320,
+    "date": "2025-05-30",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -6.67
+  },
+  {
+    "id": 321,
+    "date": "2025-06-03",
+    "merchant": "Market",
+    "category": "Food & Drink",
+    "amount": -117.95
+  },
+  {
+    "id": 322,
+    "date": "2025-06-10",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -50.26
+  },
+  {
+    "id": 323,
+    "date": "2025-10-16",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -57.92
+  },
+  {
+    "id": 324,
+    "date": "2025-06-09",
+    "merchant": "Friends Cafe",
+    "category": "Entertainment",
+    "amount": -37.76
+  },
+  {
+    "id": 325,
+    "date": "2025-10-22",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -30.31
+  },
+  {
+    "id": 326,
+    "date": "2025-07-24",
+    "merchant": "Costco",
+    "category": "Income",
+    "amount": 1249.74
+  },
+  {
+    "id": 327,
+    "date": "2025-06-26",
+    "merchant": "PowerCo",
+    "category": "Entertainment",
+    "amount": -147.66
+  },
+  {
+    "id": 328,
+    "date": "2025-08-09",
+    "merchant": "Brew Bros",
+    "category": "Income",
+    "amount": 1278.44
+  },
+  {
+    "id": 329,
+    "date": "2025-10-14",
+    "merchant": "Market",
+    "category": "Food & Drink",
+    "amount": -122.11
+  },
+  {
+    "id": 330,
+    "date": "2025-09-24",
+    "merchant": "Friends Cafe",
+    "category": "Other",
+    "amount": -61.81
+  },
+  {
+    "id": 331,
+    "date": "2025-06-16",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -35.05
+  },
+  {
+    "id": 332,
+    "date": "2025-08-28",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -96.33
+  },
+  {
+    "id": 333,
+    "date": "2025-08-21",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -178.58
+  },
+  {
+    "id": 334,
+    "date": "2025-08-14",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "amount": -104.95
+  },
+  {
+    "id": 335,
+    "date": "2025-06-27",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -54.02
+  },
+  {
+    "id": 336,
+    "date": "2025-07-31",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -81.73
+  },
+  {
+    "id": 337,
+    "date": "2025-09-08",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -148.83
+  },
+  {
+    "id": 338,
+    "date": "2025-08-20",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -112.91
+  },
+  {
+    "id": 339,
+    "date": "2025-08-19",
+    "merchant": "Safeway",
+    "category": "Other",
+    "amount": -41.57
+  },
+  {
+    "id": 340,
+    "date": "2025-09-13",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -11.19
+  },
+  {
+    "id": 341,
+    "date": "2025-11-03",
+    "merchant": "Spotify",
+    "category": "Income",
+    "amount": 2388.0
+  },
+  {
+    "id": 342,
+    "date": "2025-11-08",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": -168.25
+  },
+  {
+    "id": 343,
+    "date": "2025-07-16",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -134.93
+  },
+  {
+    "id": 344,
+    "date": "2025-10-08",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -165.23
+  },
+  {
+    "id": 345,
+    "date": "2025-09-03",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -54.92
+  },
+  {
+    "id": 346,
+    "date": "2025-08-20",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -69.67
+  },
+  {
+    "id": 347,
+    "date": "2025-07-07",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -22.25
+  },
+  {
+    "id": 348,
+    "date": "2025-06-18",
+    "merchant": "Uber",
+    "category": "Food & Drink",
+    "amount": -187.14
+  },
+  {
+    "id": 349,
+    "date": "2025-11-08",
+    "merchant": "Costco",
+    "category": "Utilities",
+    "amount": -36.03
+  },
+  {
+    "id": 350,
+    "date": "2025-10-26",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -52.51
+  },
+  {
+    "id": 351,
+    "date": "2025-08-03",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -116.42
+  },
+  {
+    "id": 352,
+    "date": "2025-05-13",
+    "merchant": "PowerCo",
+    "category": "Utilities",
+    "amount": -193.91
+  },
+  {
+    "id": 353,
+    "date": "2025-06-25",
+    "merchant": "Market",
+    "category": "Food & Drink",
+    "amount": -93.21
+  },
+  {
+    "id": 354,
+    "date": "2025-05-21",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -105.07
+  },
+  {
+    "id": 355,
+    "date": "2025-07-26",
+    "merchant": "Costco",
+    "category": "Income",
+    "amount": 1043.38
+  },
+  {
+    "id": 356,
+    "date": "2025-05-12",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -157.73
+  },
+  {
+    "id": 357,
+    "date": "2025-08-20",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -41.03
+  },
+  {
+    "id": 358,
+    "date": "2025-08-03",
+    "merchant": "Costco",
+    "category": "Subscriptions",
+    "amount": -163.88
+  },
+  {
+    "id": 359,
+    "date": "2025-06-13",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -185.58
+  },
+  {
+    "id": 360,
+    "date": "2025-08-31",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -16.53
+  },
+  {
+    "id": 361,
+    "date": "2025-05-19",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 2109.54
+  },
+  {
+    "id": 362,
+    "date": "2025-08-07",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -39.76
+  },
+  {
+    "id": 363,
+    "date": "2025-07-10",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -157.51
+  },
+  {
+    "id": 364,
+    "date": "2025-09-26",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -72.15
+  },
+  {
+    "id": 365,
+    "date": "2025-10-24",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -85.76
+  },
+  {
+    "id": 366,
+    "date": "2025-08-22",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -190.03
+  },
+  {
+    "id": 367,
+    "date": "2025-07-05",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -92.23
+  },
+  {
+    "id": 368,
+    "date": "2025-06-06",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -76.52
+  },
+  {
+    "id": 369,
+    "date": "2025-08-23",
+    "merchant": "PowerCo",
+    "category": "Income",
+    "amount": 3777.23
+  },
+  {
+    "id": 370,
+    "date": "2025-08-02",
+    "merchant": "CoffeeHouse",
+    "category": "Transportation",
+    "amount": -167.06
+  },
+  {
+    "id": 371,
+    "date": "2025-07-11",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -17.31
+  },
+  {
+    "id": 372,
+    "date": "2025-09-20",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -39.53
+  },
+  {
+    "id": 373,
+    "date": "2025-06-29",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -14.73
+  },
+  {
+    "id": 374,
+    "date": "2025-10-26",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -65.63
+  },
+  {
+    "id": 375,
+    "date": "2025-05-29",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -192.45
+  },
+  {
+    "id": 376,
+    "date": "2025-08-27",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -174.68
+  },
+  {
+    "id": 377,
+    "date": "2025-10-26",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -133.94
+  },
+  {
+    "id": 378,
+    "date": "2025-06-15",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -155.42
+  },
+  {
+    "id": 379,
+    "date": "2025-06-04",
+    "merchant": "CoffeeHouse",
+    "category": "Transportation",
+    "amount": -105.45
+  },
+  {
+    "id": 380,
+    "date": "2025-07-01",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -46.83
+  },
+  {
+    "id": 381,
+    "date": "2025-09-16",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -97.68
+  },
+  {
+    "id": 382,
+    "date": "2025-05-15",
+    "merchant": "Lyft",
+    "category": "Income",
+    "amount": 1654.51
+  },
+  {
+    "id": 383,
+    "date": "2025-06-23",
+    "merchant": "CoffeeHouse",
+    "category": "Other",
+    "amount": -47.65
+  },
+  {
+    "id": 384,
+    "date": "2025-06-27",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -91.93
+  },
+  {
+    "id": 385,
+    "date": "2025-08-15",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -57.68
+  },
+  {
+    "id": 386,
+    "date": "2025-10-25",
+    "merchant": "Safeway",
+    "category": "Transportation",
+    "amount": -86.78
+  },
+  {
+    "id": 387,
+    "date": "2025-11-08",
+    "merchant": "Lyft",
+    "category": "Subscriptions",
+    "amount": -131.49
+  },
+  {
+    "id": 388,
+    "date": "2025-05-22",
+    "merchant": "Costco",
+    "category": "Utilities",
+    "amount": -156.81
+  },
+  {
+    "id": 389,
+    "date": "2025-11-07",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -66.61
+  },
+  {
+    "id": 390,
+    "date": "2025-08-17",
+    "merchant": "Brew Bros",
+    "category": "Other",
+    "amount": -182.48
+  },
+  {
+    "id": 391,
+    "date": "2025-09-22",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -69.26
+  },
+  {
+    "id": 392,
+    "date": "2025-08-06",
+    "merchant": "Friends Cafe",
+    "category": "Food & Drink",
+    "amount": -154.04
+  },
+  {
+    "id": 393,
+    "date": "2025-05-19",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -14.83
+  },
+  {
+    "id": 394,
+    "date": "2025-07-18",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -162.68
+  },
+  {
+    "id": 395,
+    "date": "2025-06-04",
+    "merchant": "Brew Bros",
+    "category": "Subscriptions",
+    "amount": -174.95
+  },
+  {
+    "id": 396,
+    "date": "2025-06-07",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -84.82
+  },
+  {
+    "id": 397,
+    "date": "2025-05-24",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -99.81
+  },
+  {
+    "id": 398,
+    "date": "2025-07-23",
+    "merchant": "PowerCo",
+    "category": "Utilities",
+    "amount": -108.27
+  },
+  {
+    "id": 399,
+    "date": "2025-07-01",
+    "merchant": "Safeway",
+    "category": "Food & Drink",
+    "amount": -168.08
+  },
+  {
+    "id": 400,
+    "date": "2025-07-26",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -77.54
+  },
+  {
+    "id": 401,
+    "date": "2025-06-14",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -147.74
+  },
+  {
+    "id": 402,
+    "date": "2025-07-05",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -99.48
+  },
+  {
+    "id": 403,
+    "date": "2025-06-17",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -87.33
+  },
+  {
+    "id": 404,
+    "date": "2025-06-09",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -180.72
+  },
+  {
+    "id": 405,
+    "date": "2025-08-25",
+    "merchant": "Lyft",
+    "category": "Subscriptions",
+    "amount": -23.45
+  },
+  {
+    "id": 406,
+    "date": "2025-10-26",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -159.22
+  },
+  {
+    "id": 407,
+    "date": "2025-10-24",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -54.42
+  },
+  {
+    "id": 408,
+    "date": "2025-05-20",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -143.27
+  },
+  {
+    "id": 409,
+    "date": "2025-10-06",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -18.01
+  },
+  {
+    "id": 410,
+    "date": "2025-08-19",
+    "merchant": "Safeway",
+    "category": "Rent",
+    "amount": -17.89
+  },
+  {
+    "id": 411,
+    "date": "2025-05-24",
+    "merchant": "Safeway",
+    "category": "Rent",
+    "amount": -111.14
+  },
+  {
+    "id": 412,
+    "date": "2025-06-07",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -154.72
+  },
+  {
+    "id": 413,
+    "date": "2025-07-25",
+    "merchant": "Costco",
+    "category": "Subscriptions",
+    "amount": -113.06
+  },
+  {
+    "id": 414,
+    "date": "2025-06-16",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -136.09
+  },
+  {
+    "id": 415,
+    "date": "2025-07-18",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -75.12
+  },
+  {
+    "id": 416,
+    "date": "2025-08-16",
+    "merchant": "CoffeeHouse",
+    "category": "Income",
+    "amount": 1479.84
+  },
+  {
+    "id": 417,
+    "date": "2025-06-30",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -155.12
+  },
+  {
+    "id": 418,
+    "date": "2025-07-03",
+    "merchant": "Lyft",
+    "category": "Subscriptions",
+    "amount": -153.2
+  },
+  {
+    "id": 419,
+    "date": "2025-06-26",
+    "merchant": "Costco",
+    "category": "Rent",
+    "amount": -20.79
+  },
+  {
+    "id": 420,
+    "date": "2025-06-25",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -41.02
+  },
+  {
+    "id": 421,
+    "date": "2025-10-26",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -61.14
+  },
+  {
+    "id": 422,
+    "date": "2025-06-27",
+    "merchant": "Friends Cafe",
+    "category": "Transportation",
+    "amount": -15.32
+  },
+  {
+    "id": 423,
+    "date": "2025-10-24",
+    "merchant": "Brew Bros",
+    "category": "Subscriptions",
+    "amount": -179.54
+  },
+  {
+    "id": 424,
+    "date": "2025-07-15",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -18.21
+  },
+  {
+    "id": 425,
+    "date": "2025-09-15",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -110.61
+  },
+  {
+    "id": 426,
+    "date": "2025-07-18",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 2876.95
+  },
+  {
+    "id": 427,
+    "date": "2025-07-11",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -151.81
+  },
+  {
+    "id": 428,
+    "date": "2025-07-26",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -132.95
+  },
+  {
+    "id": 429,
+    "date": "2025-07-22",
+    "merchant": "Spotify",
+    "category": "Income",
+    "amount": 2865.54
+  },
+  {
+    "id": 430,
+    "date": "2025-10-13",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -73.95
+  },
+  {
+    "id": 431,
+    "date": "2025-05-26",
+    "merchant": "CoffeeHouse",
+    "category": "Transportation",
+    "amount": -191.9
+  },
+  {
+    "id": 432,
+    "date": "2025-08-25",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -8.19
+  },
+  {
+    "id": 433,
+    "date": "2025-10-28",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": -44.35
+  },
+  {
+    "id": 434,
+    "date": "2025-09-07",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -45.14
+  },
+  {
+    "id": 435,
+    "date": "2025-09-16",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -92.69
+  },
+  {
+    "id": 436,
+    "date": "2025-10-29",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -179.74
+  },
+  {
+    "id": 437,
+    "date": "2025-08-16",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -164.22
+  },
+  {
+    "id": 438,
+    "date": "2025-09-14",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -183.33
+  },
+  {
+    "id": 439,
+    "date": "2025-07-12",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -102.33
+  },
+  {
+    "id": 440,
+    "date": "2025-11-07",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -44.63
+  },
+  {
+    "id": 441,
+    "date": "2025-06-22",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -17.13
+  },
+  {
+    "id": 442,
+    "date": "2025-10-25",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -40.16
+  },
+  {
+    "id": 443,
+    "date": "2025-11-08",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -78.43
+  },
+  {
+    "id": 444,
+    "date": "2025-06-23",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -46.37
+  },
+  {
+    "id": 445,
+    "date": "2025-06-04",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -3.57
+  },
+  {
+    "id": 446,
+    "date": "2025-10-22",
+    "merchant": "Uber",
+    "category": "Entertainment",
+    "amount": -162.78
+  },
+  {
+    "id": 447,
+    "date": "2025-06-19",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -165.39
+  },
+  {
+    "id": 448,
+    "date": "2025-09-16",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -128.44
+  },
+  {
+    "id": 449,
+    "date": "2025-09-03",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -49.25
+  },
+  {
+    "id": 450,
+    "date": "2025-09-30",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -104.24
+  },
+  {
+    "id": 451,
+    "date": "2025-09-22",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -194.4
+  },
+  {
+    "id": 452,
+    "date": "2025-11-03",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -80.09
+  },
+  {
+    "id": 453,
+    "date": "2025-06-30",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -47.42
+  },
+  {
+    "id": 454,
+    "date": "2025-07-01",
+    "merchant": "CoffeeHouse",
+    "category": "Transportation",
+    "amount": -37.93
+  },
+  {
+    "id": 455,
+    "date": "2025-10-03",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -18.18
+  },
+  {
+    "id": 456,
+    "date": "2025-09-20",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 3814.89
+  },
+  {
+    "id": 457,
+    "date": "2025-05-17",
+    "merchant": "Friends Cafe",
+    "category": "Other",
+    "amount": -125.31
+  },
+  {
+    "id": 458,
+    "date": "2025-05-13",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -41.11
+  },
+  {
+    "id": 459,
+    "date": "2025-08-09",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -66.8
+  },
+  {
+    "id": 460,
+    "date": "2025-06-10",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -132.42
+  },
+  {
+    "id": 461,
+    "date": "2025-07-21",
+    "merchant": "Uber",
+    "category": "Income",
+    "amount": 3991.14
+  },
+  {
+    "id": 462,
+    "date": "2025-09-26",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -112.84
+  },
+  {
+    "id": 463,
+    "date": "2025-08-28",
+    "merchant": "Market",
+    "category": "Entertainment",
+    "amount": -174.85
+  },
+  {
+    "id": 464,
+    "date": "2025-10-20",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -32.02
+  },
+  {
+    "id": 465,
+    "date": "2025-07-13",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -156.7
+  },
+  {
+    "id": 466,
+    "date": "2025-08-23",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -125.86
+  },
+  {
+    "id": 467,
+    "date": "2025-09-17",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -79.26
+  },
+  {
+    "id": 468,
+    "date": "2025-07-25",
+    "merchant": "PowerCo",
+    "category": "Entertainment",
+    "amount": -26.87
+  },
+  {
+    "id": 469,
+    "date": "2025-10-21",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -8.98
+  },
+  {
+    "id": 470,
+    "date": "2025-07-15",
+    "merchant": "PowerCo",
+    "category": "Subscriptions",
+    "amount": -17.12
+  },
+  {
+    "id": 471,
+    "date": "2025-08-21",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -53.68
+  },
+  {
+    "id": 472,
+    "date": "2025-08-20",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -48.83
+  },
+  {
+    "id": 473,
+    "date": "2025-08-09",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -71.96
+  },
+  {
+    "id": 474,
+    "date": "2025-06-05",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -55.34
+  },
+  {
+    "id": 475,
+    "date": "2025-10-31",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -170.82
+  },
+  {
+    "id": 476,
+    "date": "2025-09-22",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -129.09
+  },
+  {
+    "id": 477,
+    "date": "2025-05-30",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -48.9
+  },
+  {
+    "id": 478,
+    "date": "2025-10-14",
+    "merchant": "PG&E",
+    "category": "Utilities",
+    "amount": -2.03
+  },
+  {
+    "id": 479,
+    "date": "2025-06-19",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -186.96
+  },
+  {
+    "id": 480,
+    "date": "2025-10-30",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -66.31
+  },
+  {
+    "id": 481,
+    "date": "2025-09-03",
+    "merchant": "Friends Cafe",
+    "category": "Subscriptions",
+    "amount": -7.91
+  },
+  {
+    "id": 482,
+    "date": "2025-10-30",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -32.83
+  },
+  {
+    "id": 483,
+    "date": "2025-05-31",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -19.26
+  },
+  {
+    "id": 484,
+    "date": "2025-06-13",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -171.44
+  },
+  {
+    "id": 485,
+    "date": "2025-06-25",
+    "merchant": "Safeway",
+    "category": "Food & Drink",
+    "amount": -64.77
+  },
+  {
+    "id": 486,
+    "date": "2025-07-24",
+    "merchant": "Market",
+    "category": "Subscriptions",
+    "amount": -18.48
+  },
+  {
+    "id": 487,
+    "date": "2025-07-09",
+    "merchant": "MusicBox",
+    "category": "Other",
+    "amount": -69.81
+  },
+  {
+    "id": 488,
+    "date": "2025-11-03",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -131.16
+  },
+  {
+    "id": 489,
+    "date": "2025-06-03",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -184.88
+  },
+  {
+    "id": 490,
+    "date": "2025-10-06",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -168.71
+  },
+  {
+    "id": 491,
+    "date": "2025-10-21",
+    "merchant": "MusicBox",
+    "category": "Transportation",
+    "amount": -5.05
+  },
+  {
+    "id": 492,
+    "date": "2025-05-26",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -98.23
+  },
+  {
+    "id": 493,
+    "date": "2025-09-19",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -107.39
+  },
+  {
+    "id": 494,
+    "date": "2025-06-04",
+    "merchant": "Uber",
+    "category": "Other",
+    "amount": -122.25
+  },
+  {
+    "id": 495,
+    "date": "2025-06-14",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -119.38
+  },
+  {
+    "id": 496,
+    "date": "2025-08-19",
+    "merchant": "CoffeeHouse",
+    "category": "Transportation",
+    "amount": -52.64
+  },
+  {
+    "id": 497,
+    "date": "2025-08-02",
+    "merchant": "Spotify",
+    "category": "Rent",
+    "amount": -115.57
+  },
+  {
+    "id": 498,
+    "date": "2025-09-09",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -59.95
+  },
+  {
+    "id": 499,
+    "date": "2025-11-06",
+    "merchant": "Uber",
+    "category": "Utilities",
+    "amount": -102.94
+  },
+  {
+    "id": 500,
+    "date": "2025-07-10",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -158.32
+  },
+  {
+    "id": 501,
+    "date": "2025-06-20",
+    "merchant": "Brew Bros",
+    "category": "Subscriptions",
+    "amount": -138.59
+  },
+  {
+    "id": 502,
+    "date": "2025-07-25",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -18.74
+  },
+  {
+    "id": 503,
+    "date": "2025-08-08",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -105.21
+  },
+  {
+    "id": 504,
+    "date": "2025-09-25",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -178.65
+  },
+  {
+    "id": 505,
+    "date": "2025-11-02",
+    "merchant": "Friends Cafe",
+    "category": "Entertainment",
+    "amount": -9.12
+  },
+  {
+    "id": 506,
+    "date": "2025-06-12",
+    "merchant": "Costco",
+    "category": "Transportation",
+    "amount": -197.14
+  },
+  {
+    "id": 507,
+    "date": "2025-08-09",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -109.11
+  },
+  {
+    "id": 508,
+    "date": "2025-06-09",
+    "merchant": "Lyft",
+    "category": "Entertainment",
+    "amount": -57.98
+  },
+  {
+    "id": 509,
+    "date": "2025-09-30",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -188.24
+  },
+  {
+    "id": 510,
+    "date": "2025-05-29",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -61.65
+  },
+  {
+    "id": 511,
+    "date": "2025-06-07",
+    "merchant": "MusicBox",
+    "category": "Entertainment",
+    "amount": -107.74
+  },
+  {
+    "id": 512,
+    "date": "2025-10-28",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -17.27
+  },
+  {
+    "id": 513,
+    "date": "2025-06-12",
+    "merchant": "PG&E",
+    "category": "Income",
+    "amount": 2780.23
+  },
+  {
+    "id": 514,
+    "date": "2025-06-06",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -180.29
+  },
+  {
+    "id": 515,
+    "date": "2025-07-29",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -52.34
+  },
+  {
+    "id": 516,
+    "date": "2025-07-18",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -50.81
+  },
+  {
+    "id": 517,
+    "date": "2025-09-30",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -118.33
+  },
+  {
+    "id": 518,
+    "date": "2025-10-29",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -104.73
+  },
+  {
+    "id": 519,
+    "date": "2025-05-13",
+    "merchant": "Lyft",
+    "category": "Income",
+    "amount": 2755.02
+  },
+  {
+    "id": 520,
+    "date": "2025-05-24",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -77.89
+  },
+  {
+    "id": 521,
+    "date": "2025-05-30",
+    "merchant": "MusicBox",
+    "category": "Utilities",
+    "amount": -41.18
+  },
+  {
+    "id": 522,
+    "date": "2025-05-26",
+    "merchant": "MusicBox",
+    "category": "Utilities",
+    "amount": -127.11
+  },
+  {
+    "id": 523,
+    "date": "2025-09-05",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -138.62
+  },
+  {
+    "id": 524,
+    "date": "2025-11-05",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -38.8
+  },
+  {
+    "id": 525,
+    "date": "2025-10-04",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -7.53
+  },
+  {
+    "id": 526,
+    "date": "2025-06-15",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -65.12
+  },
+  {
+    "id": 527,
+    "date": "2025-08-07",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -70.27
+  },
+  {
+    "id": 528,
+    "date": "2025-09-17",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -53.91
+  },
+  {
+    "id": 529,
+    "date": "2025-09-19",
+    "merchant": "Friends Cafe",
+    "category": "Transportation",
+    "amount": -100.49
+  },
+  {
+    "id": 530,
+    "date": "2025-07-28",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -75.49
+  },
+  {
+    "id": 531,
+    "date": "2025-07-05",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -178.27
+  },
+  {
+    "id": 532,
+    "date": "2025-08-08",
+    "merchant": "Costco",
+    "category": "Utilities",
+    "amount": -77.91
+  },
+  {
+    "id": 533,
+    "date": "2025-07-20",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -126.49
+  },
+  {
+    "id": 534,
+    "date": "2025-06-29",
+    "merchant": "Costco",
+    "category": "Other",
+    "amount": -198.52
+  },
+  {
+    "id": 535,
+    "date": "2025-05-21",
+    "merchant": "PowerCo",
+    "category": "Income",
+    "amount": 1455.31
+  },
+  {
+    "id": 536,
+    "date": "2025-08-08",
+    "merchant": "Uber",
+    "category": "Other",
+    "amount": -192.8
+  },
+  {
+    "id": 537,
+    "date": "2025-07-16",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -94.5
+  },
+  {
+    "id": 538,
+    "date": "2025-05-12",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -51.43
+  },
+  {
+    "id": 539,
+    "date": "2025-09-11",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -137.49
+  },
+  {
+    "id": 540,
+    "date": "2025-09-18",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -10.31
+  },
+  {
+    "id": 541,
+    "date": "2025-05-26",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -100.77
+  },
+  {
+    "id": 542,
+    "date": "2025-09-11",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -97.17
+  },
+  {
+    "id": 543,
+    "date": "2025-09-11",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -177.72
+  },
+  {
+    "id": 544,
+    "date": "2025-11-01",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -109.38
+  },
+  {
+    "id": 545,
+    "date": "2025-06-24",
+    "merchant": "Costco",
+    "category": "Other",
+    "amount": -165.3
+  },
+  {
+    "id": 546,
+    "date": "2025-10-28",
+    "merchant": "PG&E",
+    "category": "Utilities",
+    "amount": -194.41
+  },
+  {
+    "id": 547,
+    "date": "2025-06-23",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -29.79
+  },
+  {
+    "id": 548,
+    "date": "2025-10-17",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -66.77
+  },
+  {
+    "id": 549,
+    "date": "2025-09-07",
+    "merchant": "Lyft",
+    "category": "Entertainment",
+    "amount": -196.64
+  },
+  {
+    "id": 550,
+    "date": "2025-09-28",
+    "merchant": "CoffeeHouse",
+    "category": "Income",
+    "amount": 3784.82
+  },
+  {
+    "id": 551,
+    "date": "2025-07-09",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -51.15
+  },
+  {
+    "id": 552,
+    "date": "2025-10-04",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -72.49
+  },
+  {
+    "id": 553,
+    "date": "2025-10-17",
+    "merchant": "Market",
+    "category": "Other",
+    "amount": -100.28
+  },
+  {
+    "id": 554,
+    "date": "2025-10-24",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -185.86
+  },
+  {
+    "id": 555,
+    "date": "2025-05-18",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -94.69
+  },
+  {
+    "id": 556,
+    "date": "2025-07-29",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -137.91
+  },
+  {
+    "id": 557,
+    "date": "2025-05-25",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -121.54
+  },
+  {
+    "id": 558,
+    "date": "2025-06-06",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -178.33
+  },
+  {
+    "id": 559,
+    "date": "2025-07-23",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -74.26
+  },
+  {
+    "id": 560,
+    "date": "2025-09-08",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -6.0
+  },
+  {
+    "id": 561,
+    "date": "2025-08-21",
+    "merchant": "PG&E",
+    "category": "Income",
+    "amount": 2155.02
+  },
+  {
+    "id": 562,
+    "date": "2025-05-15",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -124.97
+  },
+  {
+    "id": 563,
+    "date": "2025-08-09",
+    "merchant": "Costco",
+    "category": "Other",
+    "amount": -74.72
+  },
+  {
+    "id": 564,
+    "date": "2025-09-26",
+    "merchant": "Friends Cafe",
+    "category": "Food & Drink",
+    "amount": -58.42
+  },
+  {
+    "id": 565,
+    "date": "2025-08-30",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -25.4
+  },
+  {
+    "id": 566,
+    "date": "2025-11-05",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -180.12
+  },
+  {
+    "id": 567,
+    "date": "2025-11-03",
+    "merchant": "Safeway",
+    "category": "Other",
+    "amount": -84.72
+  },
+  {
+    "id": 568,
+    "date": "2025-09-11",
+    "merchant": "CoffeeHouse",
+    "category": "Income",
+    "amount": 3981.05
+  },
+  {
+    "id": 569,
+    "date": "2025-08-27",
+    "merchant": "Safeway",
+    "category": "Utilities",
+    "amount": -3.36
+  },
+  {
+    "id": 570,
+    "date": "2025-09-16",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -44.98
+  },
+  {
+    "id": 571,
+    "date": "2025-07-27",
+    "merchant": "Lyft",
+    "category": "Income",
+    "amount": 1423.45
+  },
+  {
+    "id": 572,
+    "date": "2025-06-09",
+    "merchant": "Safeway",
+    "category": "Utilities",
+    "amount": -130.82
+  },
+  {
+    "id": 573,
+    "date": "2025-08-14",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -193.57
+  },
+  {
+    "id": 574,
+    "date": "2025-07-21",
+    "merchant": "Friends Cafe",
+    "category": "Subscriptions",
+    "amount": -195.48
+  },
+  {
+    "id": 575,
+    "date": "2025-08-16",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -62.61
+  },
+  {
+    "id": 576,
+    "date": "2025-07-29",
+    "merchant": "Spotify",
+    "category": "Other",
+    "amount": -190.04
+  },
+  {
+    "id": 577,
+    "date": "2025-07-16",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -44.18
+  },
+  {
+    "id": 578,
+    "date": "2025-06-07",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -76.37
+  },
+  {
+    "id": 579,
+    "date": "2025-10-24",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -81.64
+  },
+  {
+    "id": 580,
+    "date": "2025-08-24",
+    "merchant": "Netflix",
+    "category": "Other",
+    "amount": -120.91
+  },
+  {
+    "id": 581,
+    "date": "2025-08-06",
+    "merchant": "Friends Cafe",
+    "category": "Food & Drink",
+    "amount": -151.79
+  },
+  {
+    "id": 582,
+    "date": "2025-09-20",
+    "merchant": "Spotify",
+    "category": "Utilities",
+    "amount": -115.84
+  },
+  {
+    "id": 583,
+    "date": "2025-11-04",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 3172.07
+  },
+  {
+    "id": 584,
+    "date": "2025-05-19",
+    "merchant": "Safeway",
+    "category": "Utilities",
+    "amount": -46.16
+  },
+  {
+    "id": 585,
+    "date": "2025-05-15",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -173.68
+  },
+  {
+    "id": 586,
+    "date": "2025-05-19",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -125.62
+  },
+  {
+    "id": 587,
+    "date": "2025-06-19",
+    "merchant": "CoffeeHouse",
+    "category": "Income",
+    "amount": 1577.79
+  },
+  {
+    "id": 588,
+    "date": "2025-11-08",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -120.07
+  },
+  {
+    "id": 589,
+    "date": "2025-11-07",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -12.53
+  },
+  {
+    "id": 590,
+    "date": "2025-05-18",
+    "merchant": "PowerCo",
+    "category": "Subscriptions",
+    "amount": -132.96
+  },
+  {
+    "id": 591,
+    "date": "2025-11-07",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -135.14
+  },
+  {
+    "id": 592,
+    "date": "2025-07-02",
+    "merchant": "Safeway",
+    "category": "Entertainment",
+    "amount": -115.84
+  },
+  {
+    "id": 593,
+    "date": "2025-10-07",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -49.12
+  },
+  {
+    "id": 594,
+    "date": "2025-08-30",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -142.26
+  },
+  {
+    "id": 595,
+    "date": "2025-05-24",
+    "merchant": "Friends Cafe",
+    "category": "Food & Drink",
+    "amount": -79.71
+  },
+  {
+    "id": 596,
+    "date": "2025-07-22",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -72.93
+  },
+  {
+    "id": 597,
+    "date": "2025-07-25",
+    "merchant": "Uber",
+    "category": "Income",
+    "amount": 1380.16
+  },
+  {
+    "id": 598,
+    "date": "2025-07-31",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -16.24
+  },
+  {
+    "id": 599,
+    "date": "2025-07-19",
+    "merchant": "PG&E",
+    "category": "Other",
+    "amount": -139.23
+  },
+  {
+    "id": 600,
+    "date": "2025-07-26",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "amount": -15.75
+  },
+  {
+    "id": 601,
+    "date": "2025-10-14",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -93.39
+  },
+  {
+    "id": 602,
+    "date": "2025-10-12",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -191.17
+  },
+  {
+    "id": 603,
+    "date": "2025-10-24",
+    "merchant": "Costco",
+    "category": "Utilities",
+    "amount": -28.99
+  },
+  {
+    "id": 604,
+    "date": "2025-08-05",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -74.3
+  },
+  {
+    "id": 605,
+    "date": "2025-07-21",
+    "merchant": "Uber",
+    "category": "Income",
+    "amount": 3645.17
+  },
+  {
+    "id": 606,
+    "date": "2025-06-16",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -75.16
+  },
+  {
+    "id": 607,
+    "date": "2025-06-15",
+    "merchant": "Netflix",
+    "category": "Income",
+    "amount": 1959.96
+  },
+  {
+    "id": 608,
+    "date": "2025-08-28",
+    "merchant": "PG&E",
+    "category": "Income",
+    "amount": 1531.1
+  },
+  {
+    "id": 609,
+    "date": "2025-06-22",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -143.52
+  },
+  {
+    "id": 610,
+    "date": "2025-05-18",
+    "merchant": "Lyft",
+    "category": "Entertainment",
+    "amount": -50.12
+  },
+  {
+    "id": 611,
+    "date": "2025-07-10",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -150.78
+  },
+  {
+    "id": 612,
+    "date": "2025-05-14",
+    "merchant": "Uber",
+    "category": "Entertainment",
+    "amount": -64.46
+  },
+  {
+    "id": 613,
+    "date": "2025-10-22",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -199.41
+  },
+  {
+    "id": 614,
+    "date": "2025-10-17",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -146.7
+  },
+  {
+    "id": 615,
+    "date": "2025-08-02",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -62.21
+  },
+  {
+    "id": 616,
+    "date": "2025-08-31",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -52.6
+  },
+  {
+    "id": 617,
+    "date": "2025-10-15",
+    "merchant": "Costco",
+    "category": "Other",
+    "amount": -101.97
+  },
+  {
+    "id": 618,
+    "date": "2025-10-02",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -155.84
+  },
+  {
+    "id": 619,
+    "date": "2025-10-27",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -47.19
+  },
+  {
+    "id": 620,
+    "date": "2025-05-12",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -36.95
+  },
+  {
+    "id": 621,
+    "date": "2025-08-13",
+    "merchant": "Spotify",
+    "category": "Utilities",
+    "amount": -39.21
+  },
+  {
+    "id": 622,
+    "date": "2025-07-25",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -94.46
+  },
+  {
+    "id": 623,
+    "date": "2025-06-01",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -30.58
+  },
+  {
+    "id": 624,
+    "date": "2025-08-31",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -74.62
+  },
+  {
+    "id": 625,
+    "date": "2025-06-16",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -101.24
+  },
+  {
+    "id": 626,
+    "date": "2025-10-18",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -197.07
+  },
+  {
+    "id": 627,
+    "date": "2025-08-29",
+    "merchant": "PowerCo",
+    "category": "Subscriptions",
+    "amount": -133.14
+  },
+  {
+    "id": 628,
+    "date": "2025-07-21",
+    "merchant": "MusicBox",
+    "category": "Income",
+    "amount": 1518.27
+  },
+  {
+    "id": 629,
+    "date": "2025-11-03",
+    "merchant": "Lyft",
+    "category": "Rent",
+    "amount": -21.86
+  },
+  {
+    "id": 630,
+    "date": "2025-09-27",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -165.79
+  },
+  {
+    "id": 631,
+    "date": "2025-09-04",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -103.74
+  },
+  {
+    "id": 632,
+    "date": "2025-07-27",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -87.33
+  },
+  {
+    "id": 633,
+    "date": "2025-08-25",
+    "merchant": "MusicBox",
+    "category": "Utilities",
+    "amount": -160.66
+  },
+  {
+    "id": 634,
+    "date": "2025-11-04",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -110.7
+  },
+  {
+    "id": 635,
+    "date": "2025-09-26",
+    "merchant": "Friends Cafe",
+    "category": "Transportation",
+    "amount": -199.28
+  },
+  {
+    "id": 636,
+    "date": "2025-08-07",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -114.12
+  },
+  {
+    "id": 637,
+    "date": "2025-05-25",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -39.87
+  },
+  {
+    "id": 638,
+    "date": "2025-06-24",
+    "merchant": "Lyft",
+    "category": "Entertainment",
+    "amount": -150.11
+  },
+  {
+    "id": 639,
+    "date": "2025-10-30",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -6.22
+  },
+  {
+    "id": 640,
+    "date": "2025-07-21",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -99.8
+  },
+  {
+    "id": 641,
+    "date": "2025-06-26",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -197.57
+  },
+  {
+    "id": 642,
+    "date": "2025-08-18",
+    "merchant": "Market",
+    "category": "Entertainment",
+    "amount": -20.34
+  },
+  {
+    "id": 643,
+    "date": "2025-07-03",
+    "merchant": "Friends Cafe",
+    "category": "Transportation",
+    "amount": -115.18
+  },
+  {
+    "id": 644,
+    "date": "2025-07-05",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -139.1
+  },
+  {
+    "id": 645,
+    "date": "2025-05-27",
+    "merchant": "Lyft",
+    "category": "Utilities",
+    "amount": -119.48
+  },
+  {
+    "id": 646,
+    "date": "2025-08-11",
+    "merchant": "Market",
+    "category": "Food & Drink",
+    "amount": -180.56
+  },
+  {
+    "id": 647,
+    "date": "2025-07-25",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -120.38
+  },
+  {
+    "id": 648,
+    "date": "2025-09-25",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -68.49
+  },
+  {
+    "id": 649,
+    "date": "2025-10-24",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -11.94
+  },
+  {
+    "id": 650,
+    "date": "2025-10-29",
+    "merchant": "PG&E",
+    "category": "Transportation",
+    "amount": -168.77
+  },
+  {
+    "id": 651,
+    "date": "2025-10-12",
+    "merchant": "Uber",
+    "category": "Income",
+    "amount": 2138.71
+  },
+  {
+    "id": 652,
+    "date": "2025-10-30",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -75.57
+  },
+  {
+    "id": 653,
+    "date": "2025-08-04",
+    "merchant": "Brew Bros",
+    "category": "Food & Drink",
+    "amount": -170.26
+  },
+  {
+    "id": 654,
+    "date": "2025-05-13",
+    "merchant": "Brew Bros",
+    "category": "Other",
+    "amount": -45.22
+  },
+  {
+    "id": 655,
+    "date": "2025-09-12",
+    "merchant": "CoffeeHouse",
+    "category": "Utilities",
+    "amount": -53.3
+  },
+  {
+    "id": 656,
+    "date": "2025-05-20",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -73.2
+  },
+  {
+    "id": 657,
+    "date": "2025-10-26",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -113.42
+  },
+  {
+    "id": 658,
+    "date": "2025-09-01",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -103.67
+  },
+  {
+    "id": 659,
+    "date": "2025-07-28",
+    "merchant": "Market",
+    "category": "Subscriptions",
+    "amount": -71.96
+  },
+  {
+    "id": 660,
+    "date": "2025-08-14",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -16.49
+  },
+  {
+    "id": 661,
+    "date": "2025-07-28",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -189.76
+  },
+  {
+    "id": 662,
+    "date": "2025-06-03",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -22.25
+  },
+  {
+    "id": 663,
+    "date": "2025-09-04",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -14.34
+  },
+  {
+    "id": 664,
+    "date": "2025-10-10",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -16.47
+  },
+  {
+    "id": 665,
+    "date": "2025-08-05",
+    "merchant": "Netflix",
+    "category": "Income",
+    "amount": 1455.84
+  },
+  {
+    "id": 666,
+    "date": "2025-08-28",
+    "merchant": "CoffeeHouse",
+    "category": "Rent",
+    "amount": -99.82
+  },
+  {
+    "id": 667,
+    "date": "2025-08-12",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -192.29
+  },
+  {
+    "id": 668,
+    "date": "2025-06-22",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -135.88
+  },
+  {
+    "id": 669,
+    "date": "2025-07-22",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -196.53
+  },
+  {
+    "id": 670,
+    "date": "2025-10-04",
+    "merchant": "Spotify",
+    "category": "Food & Drink",
+    "amount": -34.87
+  },
+  {
+    "id": 671,
+    "date": "2025-07-15",
+    "merchant": "Netflix",
+    "category": "Subscriptions",
+    "amount": -58.71
+  },
+  {
+    "id": 672,
+    "date": "2025-10-03",
+    "merchant": "Netflix",
+    "category": "Food & Drink",
+    "amount": -75.15
+  },
+  {
+    "id": 673,
+    "date": "2025-06-25",
+    "merchant": "Safeway",
+    "category": "Rent",
+    "amount": -128.31
+  },
+  {
+    "id": 674,
+    "date": "2025-06-12",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -188.47
+  },
+  {
+    "id": 675,
+    "date": "2025-07-16",
+    "merchant": "Safeway",
+    "category": "Subscriptions",
+    "amount": -164.22
+  },
+  {
+    "id": 676,
+    "date": "2025-08-31",
+    "merchant": "Friends Cafe",
+    "category": "Transportation",
+    "amount": -158.35
+  },
+  {
+    "id": 677,
+    "date": "2025-08-24",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -149.98
+  },
+  {
+    "id": 678,
+    "date": "2025-05-26",
+    "merchant": "Brew Bros",
+    "category": "Entertainment",
+    "amount": -50.15
+  },
+  {
+    "id": 679,
+    "date": "2025-10-07",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -51.4
+  },
+  {
+    "id": 680,
+    "date": "2025-07-05",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 3002.78
+  },
+  {
+    "id": 681,
+    "date": "2025-08-30",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -90.77
+  },
+  {
+    "id": 682,
+    "date": "2025-11-08",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -70.85
+  },
+  {
+    "id": 683,
+    "date": "2025-08-02",
+    "merchant": "MusicBox",
+    "category": "Entertainment",
+    "amount": -58.17
+  },
+  {
+    "id": 684,
+    "date": "2025-08-29",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -58.24
+  },
+  {
+    "id": 685,
+    "date": "2025-06-26",
+    "merchant": "Netflix",
+    "category": "Rent",
+    "amount": -120.58
+  },
+  {
+    "id": 686,
+    "date": "2025-10-18",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -73.02
+  },
+  {
+    "id": 687,
+    "date": "2025-08-12",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -42.64
+  },
+  {
+    "id": 688,
+    "date": "2025-10-29",
+    "merchant": "Safeway",
+    "category": "Food & Drink",
+    "amount": -21.5
+  },
+  {
+    "id": 689,
+    "date": "2025-06-07",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -186.08
+  },
+  {
+    "id": 690,
+    "date": "2025-08-31",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -21.96
+  },
+  {
+    "id": 691,
+    "date": "2025-08-16",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -55.78
+  },
+  {
+    "id": 692,
+    "date": "2025-11-02",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -188.94
+  },
+  {
+    "id": 693,
+    "date": "2025-08-06",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -97.63
+  },
+  {
+    "id": 694,
+    "date": "2025-09-06",
+    "merchant": "Friends Cafe",
+    "category": "Food & Drink",
+    "amount": -186.21
+  },
+  {
+    "id": 695,
+    "date": "2025-07-22",
+    "merchant": "Uber",
+    "category": "Other",
+    "amount": -145.45
+  },
+  {
+    "id": 696,
+    "date": "2025-06-14",
+    "merchant": "Netflix",
+    "category": "Income",
+    "amount": 1699.05
+  },
+  {
+    "id": 697,
+    "date": "2025-07-20",
+    "merchant": "Netflix",
+    "category": "Income",
+    "amount": 3334.31
+  },
+  {
+    "id": 698,
+    "date": "2025-09-02",
+    "merchant": "Netflix",
+    "category": "Rent",
+    "amount": -138.75
+  },
+  {
+    "id": 699,
+    "date": "2025-06-10",
+    "merchant": "Costco",
+    "category": "Income",
+    "amount": 996.85
+  },
+  {
+    "id": 700,
+    "date": "2025-08-06",
+    "merchant": "Netflix",
+    "category": "Rent",
+    "amount": -111.71
+  },
+  {
+    "id": 701,
+    "date": "2025-06-30",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -80.26
+  },
+  {
+    "id": 702,
+    "date": "2025-05-31",
+    "merchant": "Market",
+    "category": "Utilities",
+    "amount": -150.11
+  },
+  {
+    "id": 703,
+    "date": "2025-08-24",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -98.04
+  },
+  {
+    "id": 704,
+    "date": "2025-05-16",
+    "merchant": "Brew Bros",
+    "category": "Income",
+    "amount": 1471.26
+  },
+  {
+    "id": 705,
+    "date": "2025-05-28",
+    "merchant": "CoffeeHouse",
+    "category": "Income",
+    "amount": 2523.67
+  },
+  {
+    "id": 706,
+    "date": "2025-10-29",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -92.89
+  },
+  {
+    "id": 707,
+    "date": "2025-10-23",
+    "merchant": "Market",
+    "category": "Transportation",
+    "amount": -58.59
+  },
+  {
+    "id": 708,
+    "date": "2025-08-13",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -55.74
+  },
+  {
+    "id": 709,
+    "date": "2025-05-23",
+    "merchant": "PowerCo",
+    "category": "Subscriptions",
+    "amount": -65.21
+  },
+  {
+    "id": 710,
+    "date": "2025-09-07",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -71.35
+  },
+  {
+    "id": 711,
+    "date": "2025-06-01",
+    "merchant": "MusicBox",
+    "category": "Income",
+    "amount": 3256.37
+  },
+  {
+    "id": 712,
+    "date": "2025-09-01",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -37.59
+  },
+  {
+    "id": 713,
+    "date": "2025-07-21",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -95.65
+  },
+  {
+    "id": 714,
+    "date": "2025-09-06",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -54.91
+  },
+  {
+    "id": 715,
+    "date": "2025-08-18",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": -26.55
+  },
+  {
+    "id": 716,
+    "date": "2025-05-16",
+    "merchant": "Costco",
+    "category": "Transportation",
+    "amount": -21.96
+  },
+  {
+    "id": 717,
+    "date": "2025-07-23",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -78.96
+  },
+  {
+    "id": 718,
+    "date": "2025-07-10",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -180.47
+  },
+  {
+    "id": 719,
+    "date": "2025-10-16",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -130.59
+  },
+  {
+    "id": 720,
+    "date": "2025-05-21",
+    "merchant": "Spotify",
+    "category": "Rent",
+    "amount": -108.63
+  },
+  {
+    "id": 721,
+    "date": "2025-09-26",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -48.77
+  },
+  {
+    "id": 722,
+    "date": "2025-10-26",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -150.5
+  },
+  {
+    "id": 723,
+    "date": "2025-10-07",
+    "merchant": "MusicBox",
+    "category": "Other",
+    "amount": -153.48
+  },
+  {
+    "id": 724,
+    "date": "2025-10-31",
+    "merchant": "MusicBox",
+    "category": "Subscriptions",
+    "amount": -174.21
+  },
+  {
+    "id": 725,
+    "date": "2025-10-01",
+    "merchant": "Brew Bros",
+    "category": "Other",
+    "amount": -147.0
+  },
+  {
+    "id": 726,
+    "date": "2025-05-22",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -168.14
+  },
+  {
+    "id": 727,
+    "date": "2025-06-10",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -148.38
+  },
+  {
+    "id": 728,
+    "date": "2025-05-25",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -98.5
+  },
+  {
+    "id": 729,
+    "date": "2025-06-14",
+    "merchant": "CoffeeHouse",
+    "category": "Subscriptions",
+    "amount": -53.72
+  },
+  {
+    "id": 730,
+    "date": "2025-09-10",
+    "merchant": "PG&E",
+    "category": "Food & Drink",
+    "amount": -50.53
+  },
+  {
+    "id": 731,
+    "date": "2025-09-01",
+    "merchant": "Friends Cafe",
+    "category": "Rent",
+    "amount": -65.36
+  },
+  {
+    "id": 732,
+    "date": "2025-06-27",
+    "merchant": "PowerCo",
+    "category": "Transportation",
+    "amount": -105.57
+  },
+  {
+    "id": 733,
+    "date": "2025-09-25",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -144.34
+  },
+  {
+    "id": 734,
+    "date": "2025-08-04",
+    "merchant": "PG&E",
+    "category": "Subscriptions",
+    "amount": -32.14
+  },
+  {
+    "id": 735,
+    "date": "2025-07-20",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -24.5
+  },
+  {
+    "id": 736,
+    "date": "2025-08-09",
+    "merchant": "Safeway",
+    "category": "Entertainment",
+    "amount": -140.42
+  },
+  {
+    "id": 737,
+    "date": "2025-07-13",
+    "merchant": "Lyft",
+    "category": "Rent",
+    "amount": -34.86
+  },
+  {
+    "id": 738,
+    "date": "2025-09-14",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -187.35
+  },
+  {
+    "id": 739,
+    "date": "2025-10-28",
+    "merchant": "Safeway",
+    "category": "Other",
+    "amount": -165.2
+  },
+  {
+    "id": 740,
+    "date": "2025-10-17",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -60.23
+  },
+  {
+    "id": 741,
+    "date": "2025-07-19",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 1413.79
+  },
+  {
+    "id": 742,
+    "date": "2025-09-07",
+    "merchant": "PG&E",
+    "category": "Rent",
+    "amount": -96.86
+  },
+  {
+    "id": 743,
+    "date": "2025-07-08",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -15.45
+  },
+  {
+    "id": 744,
+    "date": "2025-08-17",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -130.32
+  },
+  {
+    "id": 745,
+    "date": "2025-10-02",
+    "merchant": "Uber",
+    "category": "Food & Drink",
+    "amount": -11.87
+  },
+  {
+    "id": 746,
+    "date": "2025-09-20",
+    "merchant": "Spotify",
+    "category": "Utilities",
+    "amount": -7.86
+  },
+  {
+    "id": 747,
+    "date": "2025-05-25",
+    "merchant": "Uber",
+    "category": "Rent",
+    "amount": -109.25
+  },
+  {
+    "id": 748,
+    "date": "2025-10-08",
+    "merchant": "Brew Bros",
+    "category": "Transportation",
+    "amount": -122.91
+  },
+  {
+    "id": 749,
+    "date": "2025-07-10",
+    "merchant": "Spotify",
+    "category": "Rent",
+    "amount": -105.95
+  },
+  {
+    "id": 750,
+    "date": "2025-09-14",
+    "merchant": "Friends Cafe",
+    "category": "Other",
+    "amount": -38.58
+  },
+  {
+    "id": 751,
+    "date": "2025-05-17",
+    "merchant": "Safeway",
+    "category": "Rent",
+    "amount": -29.48
+  },
+  {
+    "id": 752,
+    "date": "2025-09-25",
+    "merchant": "Brew Bros",
+    "category": "Utilities",
+    "amount": -133.71
+  },
+  {
+    "id": 753,
+    "date": "2025-06-04",
+    "merchant": "Lyft",
+    "category": "Utilities",
+    "amount": -148.78
+  },
+  {
+    "id": 754,
+    "date": "2025-10-04",
+    "merchant": "Uber",
+    "category": "Food & Drink",
+    "amount": -151.34
+  },
+  {
+    "id": 755,
+    "date": "2025-10-16",
+    "merchant": "MusicBox",
+    "category": "Rent",
+    "amount": -56.94
+  },
+  {
+    "id": 756,
+    "date": "2025-10-26",
+    "merchant": "Friends Cafe",
+    "category": "Income",
+    "amount": 989.7
+  },
+  {
+    "id": 757,
+    "date": "2025-08-07",
+    "merchant": "Costco",
+    "category": "Subscriptions",
+    "amount": -64.5
+  },
+  {
+    "id": 758,
+    "date": "2025-10-13",
+    "merchant": "Market",
+    "category": "Groceries",
+    "amount": -104.72
+  },
+  {
+    "id": 759,
+    "date": "2025-09-29",
+    "merchant": "Costco",
+    "category": "Food & Drink",
+    "amount": -42.45
+  },
+  {
+    "id": 760,
+    "date": "2025-07-07",
+    "merchant": "CoffeeHouse",
+    "category": "Other",
+    "amount": -78.5
+  },
+  {
+    "id": 761,
+    "date": "2025-09-16",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -54.0
+  },
+  {
+    "id": 762,
+    "date": "2025-10-27",
+    "merchant": "PowerCo",
+    "category": "Food & Drink",
+    "amount": -186.6
+  },
+  {
+    "id": 763,
+    "date": "2025-07-22",
+    "merchant": "Safeway",
+    "category": "Utilities",
+    "amount": -50.39
+  },
+  {
+    "id": 764,
+    "date": "2025-08-17",
+    "merchant": "Netflix",
+    "category": "Utilities",
+    "amount": -104.99
+  },
+  {
+    "id": 765,
+    "date": "2025-09-15",
+    "merchant": "MusicBox",
+    "category": "Food & Drink",
+    "amount": -32.3
+  },
+  {
+    "id": 766,
+    "date": "2025-10-10",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -110.56
+  },
+  {
+    "id": 767,
+    "date": "2025-09-25",
+    "merchant": "MusicBox",
+    "category": "Income",
+    "amount": 2074.04
+  },
+  {
+    "id": 768,
+    "date": "2025-05-27",
+    "merchant": "Market",
+    "category": "Income",
+    "amount": 3322.01
+  },
+  {
+    "id": 769,
+    "date": "2025-07-06",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -55.08
+  },
+  {
+    "id": 770,
+    "date": "2025-09-07",
+    "merchant": "Netflix",
+    "category": "Transportation",
+    "amount": -129.21
+  },
+  {
+    "id": 771,
+    "date": "2025-07-01",
+    "merchant": "PowerCo",
+    "category": "Other",
+    "amount": -18.25
+  },
+  {
+    "id": 772,
+    "date": "2025-08-02",
+    "merchant": "CoffeeHouse",
+    "category": "Food & Drink",
+    "amount": -24.91
+  },
+  {
+    "id": 773,
+    "date": "2025-06-11",
+    "merchant": "Uber",
+    "category": "Food & Drink",
+    "amount": -25.08
+  },
+  {
+    "id": 774,
+    "date": "2025-07-27",
+    "merchant": "Safeway",
+    "category": "Income",
+    "amount": 3858.2
+  },
+  {
+    "id": 775,
+    "date": "2025-09-18",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -73.72
+  },
+  {
+    "id": 776,
+    "date": "2025-05-28",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -136.55
+  },
+  {
+    "id": 777,
+    "date": "2025-10-31",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -145.08
+  },
+  {
+    "id": 778,
+    "date": "2025-10-24",
+    "merchant": "Brew Bros",
+    "category": "Rent",
+    "amount": -98.33
+  },
+  {
+    "id": 779,
+    "date": "2025-08-11",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -171.18
+  },
+  {
+    "id": 780,
+    "date": "2025-08-16",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -23.47
+  },
+  {
+    "id": 781,
+    "date": "2025-11-04",
+    "merchant": "Lyft",
+    "category": "Transportation",
+    "amount": -134.44
+  },
+  {
+    "id": 782,
+    "date": "2025-09-21",
+    "merchant": "Spotify",
+    "category": "Subscriptions",
+    "amount": -76.07
+  },
+  {
+    "id": 783,
+    "date": "2025-07-18",
+    "merchant": "Spotify",
+    "category": "Rent",
+    "amount": -166.21
+  },
+  {
+    "id": 784,
+    "date": "2025-06-09",
+    "merchant": "Uber",
+    "category": "Subscriptions",
+    "amount": -113.64
+  },
+  {
+    "id": 785,
+    "date": "2025-06-14",
+    "merchant": "Lyft",
+    "category": "Other",
+    "amount": -114.73
+  },
+  {
+    "id": 786,
+    "date": "2025-07-19",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -186.51
+  },
+  {
+    "id": 787,
+    "date": "2025-11-07",
+    "merchant": "Market",
+    "category": "Rent",
+    "amount": -112.95
+  },
+  {
+    "id": 788,
+    "date": "2025-08-23",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -107.38
+  },
+  {
+    "id": 789,
+    "date": "2025-11-06",
+    "merchant": "Safeway",
+    "category": "Food & Drink",
+    "amount": -49.91
+  },
+  {
+    "id": 790,
+    "date": "2025-06-28",
+    "merchant": "PowerCo",
+    "category": "Rent",
+    "amount": -97.14
+  },
+  {
+    "id": 791,
+    "date": "2025-09-06",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -170.24
+  },
+  {
+    "id": 792,
+    "date": "2025-08-22",
+    "merchant": "Lyft",
+    "category": "Food & Drink",
+    "amount": -180.15
+  },
+  {
+    "id": 793,
+    "date": "2025-08-24",
+    "merchant": "Costco",
+    "category": "Entertainment",
+    "amount": -120.03
+  },
+  {
+    "id": 794,
+    "date": "2025-10-31",
+    "merchant": "Market",
+    "category": "Income",
+    "amount": 1713.11
+  },
+  {
+    "id": 795,
+    "date": "2025-10-15",
+    "merchant": "Friends Cafe",
+    "category": "Entertainment",
+    "amount": -199.92
+  },
+  {
+    "id": 796,
+    "date": "2025-10-16",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -19.36
+  },
+  {
+    "id": 797,
+    "date": "2025-07-12",
+    "merchant": "Safeway",
+    "category": "Groceries",
+    "amount": -100.6
+  },
+  {
+    "id": 798,
+    "date": "2025-06-26",
+    "merchant": "Costco",
+    "category": "Groceries",
+    "amount": -18.44
+  },
+  {
+    "id": 799,
+    "date": "2025-09-29",
+    "merchant": "Spotify",
+    "category": "Income",
+    "amount": 1038.0
+  },
+  {
+    "id": 800,
+    "date": "2025-09-15",
+    "merchant": "Spotify",
+    "category": "Transportation",
+    "amount": -7.53
+  },
+  {
+    "amount": 45.0,
+    "category": "food",
+    "description": "dinner"
+  },
+  {
+    "amount": 50.0,
+    "category": "Food",
+    "description": "lunch"
+  },
+  {
+    "id": 7502,
+    "date": "2025-11-09",
+    "merchant": "Dinner",
+    "category": "Food",
+    "amount": 100.0
+  }
+]

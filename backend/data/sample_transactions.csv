@@ -1,0 +1,801 @@
+id,date,merchant,category,amount
+1,2025-07-23,Brew Bros,Transportation,-66.7
+2,2025-05-14,PG&E,Subscriptions,-18.48
+3,2025-09-17,PG&E,Subscriptions,-54.59
+4,2025-08-11,Safeway,Groceries,-122.06
+5,2025-06-02,Brew Bros,Food & Drink,-161.8
+6,2025-06-18,Lyft,Utilities,-151.57
+7,2025-06-26,PowerCo,Food & Drink,-45.13
+8,2025-10-04,Brew Bros,Rent,-176.5
+9,2025-10-11,Spotify,Rent,-45.67
+10,2025-08-23,Market,Utilities,-42.99
+11,2025-10-19,Brew Bros,Entertainment,-69.09
+12,2025-07-17,PG&E,Transportation,-148.81
+13,2025-05-24,PowerCo,Subscriptions,-121.44
+14,2025-06-03,Netflix,Subscriptions,-111.32
+15,2025-08-24,MusicBox,Rent,-111.13
+16,2025-06-11,Lyft,Rent,-99.68
+17,2025-10-25,Costco,Income,3750.34
+18,2025-09-24,PG&E,Subscriptions,-61.98
+19,2025-08-07,Lyft,Utilities,-172.08
+20,2025-06-06,Brew Bros,Food & Drink,-147.5
+21,2025-06-16,MusicBox,Subscriptions,-198.03
+22,2025-08-01,Market,Rent,-159.4
+23,2025-10-23,MusicBox,Transportation,-30.15
+24,2025-09-06,Brew Bros,Utilities,-7.84
+25,2025-08-23,Market,Utilities,-111.84
+26,2025-10-02,Brew Bros,Entertainment,-101.14
+27,2025-05-27,Brew Bros,Income,1044.62
+28,2025-05-31,Market,Groceries,-188.06
+29,2025-10-17,Brew Bros,Transportation,-150.6
+30,2025-07-02,Market,Transportation,-123.41
+31,2025-10-12,Spotify,Utilities,-167.7
+32,2025-08-23,Safeway,Groceries,-151.22
+33,2025-07-08,PG&E,Food & Drink,-141.08
+34,2025-11-07,Market,Transportation,-120.08
+35,2025-10-09,Market,Groceries,-118.93
+36,2025-07-18,PowerCo,Other,-127.2
+37,2025-08-26,PG&E,Transportation,-159.56
+38,2025-10-02,Costco,Transportation,-77.66
+39,2025-09-21,Netflix,Utilities,-147.53
+40,2025-06-05,Netflix,Income,3987.43
+41,2025-07-30,Safeway,Subscriptions,-93.94
+42,2025-07-06,MusicBox,Food & Drink,-112.93
+43,2025-08-03,PowerCo,Income,1886.64
+44,2025-09-22,Uber,Transportation,-139.49
+45,2025-05-30,Netflix,Transportation,-24.74
+46,2025-08-26,Brew Bros,Utilities,-111.24
+47,2025-05-20,CoffeeHouse,Rent,-97.06
+48,2025-09-08,Costco,Other,-115.55
+49,2025-05-13,PG&E,Transportation,-142.44
+50,2025-09-27,Friends Cafe,Utilities,-134.94
+51,2025-11-06,PG&E,Rent,-130.35
+52,2025-08-01,Spotify,Subscriptions,-93.67
+53,2025-06-06,CoffeeHouse,Subscriptions,-39.22
+54,2025-07-24,Friends Cafe,Transportation,-108.79
+55,2025-10-13,MusicBox,Transportation,-70.2
+56,2025-06-06,Costco,Subscriptions,-60.31
+57,2025-07-27,MusicBox,Other,-191.38
+58,2025-06-16,Safeway,Rent,-14.19
+59,2025-07-24,Safeway,Groceries,-171.62
+60,2025-07-20,Costco,Groceries,-169.9
+61,2025-10-13,Safeway,Other,-41.66
+62,2025-09-14,CoffeeHouse,Food & Drink,-60.24
+63,2025-05-25,Costco,Groceries,-53.85
+64,2025-08-14,PG&E,Subscriptions,-66.72
+65,2025-06-01,Brew Bros,Transportation,-151.44
+66,2025-06-11,Safeway,Transportation,-171.31
+67,2025-06-20,Netflix,Food & Drink,-147.27
+68,2025-06-17,Costco,Groceries,-85.98
+69,2025-05-29,MusicBox,Food & Drink,-23.43
+70,2025-09-07,PowerCo,Transportation,-40.57
+71,2025-11-02,Friends Cafe,Subscriptions,-31.19
+72,2025-05-27,PG&E,Transportation,-76.43
+73,2025-08-28,Market,Utilities,-140.34
+74,2025-09-06,Netflix,Entertainment,-173.54
+75,2025-07-12,Brew Bros,Utilities,-169.18
+76,2025-05-22,Market,Groceries,-18.27
+77,2025-06-06,Market,Other,-103.15
+78,2025-11-06,Costco,Transportation,-28.83
+79,2025-08-24,MusicBox,Subscriptions,-101.98
+80,2025-09-02,Spotify,Food & Drink,-120.94
+81,2025-08-18,PG&E,Food & Drink,-45.32
+82,2025-09-12,Safeway,Subscriptions,-36.06
+83,2025-10-01,Spotify,Other,-133.43
+84,2025-06-21,Market,Groceries,-74.24
+85,2025-06-20,Uber,Income,1151.86
+86,2025-10-16,Safeway,Other,-58.28
+87,2025-08-10,PG&E,Food & Drink,-47.45
+88,2025-10-25,CoffeeHouse,Food & Drink,-83.99
+89,2025-09-20,Costco,Other,-125.68
+90,2025-09-27,CoffeeHouse,Other,-13.64
+91,2025-05-14,PowerCo,Rent,-132.82
+92,2025-09-18,PG&E,Transportation,-91.94
+93,2025-08-27,Costco,Groceries,-17.45
+94,2025-05-30,Lyft,Rent,-87.41
+95,2025-07-28,PG&E,Entertainment,-15.85
+96,2025-06-19,Safeway,Groceries,-14.73
+97,2025-08-27,Costco,Groceries,-195.6
+98,2025-06-12,Spotify,Transportation,-166.92
+99,2025-09-26,MusicBox,Food & Drink,-7.01
+100,2025-09-04,Market,Transportation,-39.66
+101,2025-08-08,Netflix,Food & Drink,-124.03
+102,2025-07-14,PowerCo,Other,-78.47
+103,2025-08-10,MusicBox,Transportation,-55.96
+104,2025-07-20,Costco,Transportation,-35.47
+105,2025-05-25,Costco,Groceries,-188.19
+106,2025-07-10,Market,Subscriptions,-41.99
+107,2025-06-13,Safeway,Groceries,-34.09
+108,2025-06-26,Brew Bros,Transportation,-199.73
+109,2025-08-25,PowerCo,Rent,-115.34
+110,2025-09-05,Safeway,Groceries,-103.58
+111,2025-06-16,Market,Transportation,-56.51
+112,2025-10-01,Lyft,Subscriptions,-22.74
+113,2025-05-17,CoffeeHouse,Entertainment,-13.66
+114,2025-06-20,Costco,Groceries,-31.74
+115,2025-05-15,Market,Groceries,-150.94
+116,2025-06-15,CoffeeHouse,Other,-178.38
+117,2025-06-20,Market,Utilities,-30.15
+118,2025-10-02,PG&E,Other,-56.01
+119,2025-07-20,Costco,Rent,-128.82
+120,2025-10-27,Safeway,Groceries,-148.22
+121,2025-09-03,Market,Subscriptions,-103.27
+122,2025-07-26,Costco,Entertainment,-126.03
+123,2025-08-24,Safeway,Groceries,-195.4
+124,2025-09-08,Netflix,Transportation,-85.61
+125,2025-05-17,Friends Cafe,Entertainment,-151.71
+126,2025-06-09,Spotify,Entertainment,-107.22
+127,2025-06-07,PG&E,Rent,-136.26
+128,2025-07-23,PowerCo,Other,-111.02
+129,2025-08-28,CoffeeHouse,Food & Drink,-61.22
+130,2025-09-20,PowerCo,Income,1660.22
+131,2025-07-30,CoffeeHouse,Rent,-11.51
+132,2025-07-17,Costco,Groceries,-104.5
+133,2025-07-18,PowerCo,Other,-107.49
+134,2025-05-31,PG&E,Utilities,-46.07
+135,2025-10-10,Uber,Entertainment,-39.0
+136,2025-06-09,Friends Cafe,Other,-91.11
+137,2025-07-01,Safeway,Transportation,-193.93
+138,2025-08-09,Safeway,Groceries,-119.93
+139,2025-08-01,Safeway,Groceries,-190.38
+140,2025-06-22,Lyft,Transportation,-70.1
+141,2025-08-09,Lyft,Food & Drink,-182.2
+142,2025-11-05,PG&E,Rent,-132.93
+143,2025-08-14,Spotify,Utilities,-145.08
+144,2025-10-30,Market,Entertainment,-42.16
+145,2025-08-14,CoffeeHouse,Entertainment,-115.91
+146,2025-06-24,Market,Groceries,-110.91
+147,2025-09-30,CoffeeHouse,Food & Drink,-9.24
+148,2025-05-17,Safeway,Groceries,-4.52
+149,2025-09-09,Safeway,Transportation,-189.25
+150,2025-07-31,Market,Utilities,-114.14
+151,2025-07-31,Netflix,Transportation,-53.62
+152,2025-08-31,Market,Groceries,-56.07
+153,2025-07-15,Uber,Subscriptions,-197.25
+154,2025-09-21,Spotify,Entertainment,-152.54
+155,2025-05-24,Friends Cafe,Subscriptions,-95.49
+156,2025-09-22,Safeway,Other,-6.44
+157,2025-07-11,MusicBox,Subscriptions,-71.83
+158,2025-07-17,Friends Cafe,Entertainment,-36.46
+159,2025-07-08,Safeway,Groceries,-42.11
+160,2025-07-10,Safeway,Groceries,-178.0
+161,2025-11-08,MusicBox,Transportation,-57.34
+162,2025-07-15,Costco,Rent,-51.01
+163,2025-06-14,PowerCo,Rent,-103.3
+164,2025-10-03,PowerCo,Transportation,-104.19
+165,2025-08-29,Market,Groceries,-128.26
+166,2025-06-26,PowerCo,Utilities,-176.78
+167,2025-05-25,Spotify,Other,-130.36
+168,2025-08-27,Uber,Other,-184.71
+169,2025-09-09,Spotify,Food & Drink,-125.85
+170,2025-06-01,PowerCo,Food & Drink,-20.98
+171,2025-05-22,PG&E,Food & Drink,-33.36
+172,2025-08-12,PG&E,Entertainment,-150.42
+173,2025-06-10,Market,Transportation,-134.97
+174,2025-11-07,MusicBox,Subscriptions,-158.08
+175,2025-10-18,Lyft,Food & Drink,-146.73
+176,2025-06-28,PowerCo,Income,3257.99
+177,2025-11-03,Market,Groceries,-186.92
+178,2025-06-26,PG&E,Transportation,-93.02
+179,2025-11-07,Safeway,Rent,-109.92
+180,2025-07-05,Uber,Food & Drink,-113.86
+181,2025-07-18,Costco,Groceries,-6.24
+182,2025-06-13,Safeway,Subscriptions,-137.84
+183,2025-06-21,Costco,Rent,-109.77
+184,2025-08-21,PowerCo,Transportation,-178.28
+185,2025-07-19,Uber,Utilities,-154.8
+186,2025-08-03,Costco,Rent,-124.63
+187,2025-10-07,Brew Bros,Transportation,-144.26
+188,2025-06-30,Costco,Groceries,-62.32
+189,2025-09-17,Costco,Food & Drink,-5.38
+190,2025-08-18,Friends Cafe,Utilities,-95.86
+191,2025-05-31,Safeway,Food & Drink,-45.86
+192,2025-06-10,Brew Bros,Subscriptions,-16.66
+193,2025-08-09,Market,Groceries,-115.37
+194,2025-08-05,MusicBox,Subscriptions,-156.55
+195,2025-09-07,Netflix,Rent,-178.88
+196,2025-10-12,Brew Bros,Entertainment,-11.57
+197,2025-07-20,Market,Transportation,-184.33
+198,2025-07-29,PowerCo,Subscriptions,-148.1
+199,2025-06-06,Lyft,Other,-4.11
+200,2025-06-27,Safeway,Subscriptions,-77.96
+201,2025-05-12,Brew Bros,Food & Drink,-48.51
+202,2025-10-30,Market,Groceries,-159.55
+203,2025-10-30,Spotify,Food & Drink,-197.32
+204,2025-08-22,Netflix,Other,-170.35
+205,2025-10-25,MusicBox,Food & Drink,-15.5
+206,2025-10-04,MusicBox,Transportation,-105.52
+207,2025-10-29,Costco,Groceries,-42.72
+208,2025-06-27,Lyft,Other,-158.31
+209,2025-08-30,Friends Cafe,Subscriptions,-157.42
+210,2025-07-03,Safeway,Groceries,-98.62
+211,2025-06-26,Lyft,Entertainment,-94.5
+212,2025-07-06,MusicBox,Income,1750.66
+213,2025-07-04,Netflix,Utilities,-35.58
+214,2025-10-21,Spotify,Subscriptions,-32.44
+215,2025-10-10,Lyft,Subscriptions,-67.53
+216,2025-06-15,Friends Cafe,Income,2035.13
+217,2025-10-26,Netflix,Rent,-163.75
+218,2025-08-18,Costco,Groceries,-104.42
+219,2025-06-12,Market,Rent,-70.66
+220,2025-07-15,Costco,Entertainment,-63.19
+221,2025-05-25,Safeway,Groceries,-20.45
+222,2025-10-17,Market,Subscriptions,-120.81
+223,2025-07-05,Brew Bros,Utilities,-135.53
+224,2025-07-02,Costco,Groceries,-126.92
+225,2025-11-05,Netflix,Transportation,-48.89
+226,2025-09-17,Costco,Subscriptions,-152.01
+227,2025-06-11,PowerCo,Transportation,-91.47
+228,2025-08-18,Netflix,Subscriptions,-55.99
+229,2025-08-14,Netflix,Other,-125.79
+230,2025-11-03,Brew Bros,Entertainment,-160.28
+231,2025-07-03,Brew Bros,Income,1713.32
+232,2025-09-24,Netflix,Other,-123.3
+233,2025-06-16,Market,Groceries,-121.57
+234,2025-06-27,Netflix,Utilities,-92.06
+235,2025-11-08,PG&E,Subscriptions,-122.94
+236,2025-07-10,Uber,Food & Drink,-113.62
+237,2025-07-03,Costco,Income,3981.45
+238,2025-10-04,Friends Cafe,Food & Drink,-114.7
+239,2025-09-05,Market,Groceries,-62.38
+240,2025-08-20,MusicBox,Other,-85.11
+241,2025-08-17,MusicBox,Other,-138.63
+242,2025-08-28,Costco,Utilities,-159.53
+243,2025-07-09,Safeway,Groceries,-49.97
+244,2025-07-29,Brew Bros,Entertainment,-154.41
+245,2025-10-24,Market,Groceries,-86.11
+246,2025-09-19,Market,Groceries,-12.32
+247,2025-05-30,Friends Cafe,Rent,-134.76
+248,2025-05-28,MusicBox,Subscriptions,-158.47
+249,2025-09-19,Market,Groceries,-167.52
+250,2025-06-10,Costco,Rent,-152.19
+251,2025-05-21,Brew Bros,Entertainment,-155.67
+252,2025-07-22,Market,Income,1808.42
+253,2025-11-05,Safeway,Groceries,-41.84
+254,2025-08-15,Safeway,Utilities,-64.02
+255,2025-09-05,Lyft,Other,-128.14
+256,2025-06-10,Market,Groceries,-114.86
+257,2025-10-14,CoffeeHouse,Food & Drink,-47.78
+258,2025-09-22,CoffeeHouse,Utilities,-177.07
+259,2025-10-03,MusicBox,Food & Drink,-126.75
+260,2025-10-14,Friends Cafe,Rent,-193.14
+261,2025-10-15,PG&E,Food & Drink,-8.31
+262,2025-05-28,Uber,Transportation,-190.05
+263,2025-09-24,Uber,Rent,-191.25
+264,2025-08-06,Costco,Transportation,-39.55
+265,2025-05-29,Safeway,Income,3626.0
+266,2025-09-14,PowerCo,Food & Drink,-74.55
+267,2025-10-11,MusicBox,Food & Drink,-34.76
+268,2025-06-26,Lyft,Transportation,-102.58
+269,2025-09-27,Brew Bros,Entertainment,-109.57
+270,2025-08-07,Safeway,Transportation,-8.3
+271,2025-06-27,Friends Cafe,Utilities,-53.05
+272,2025-11-01,Brew Bros,Utilities,-178.38
+273,2025-07-31,Friends Cafe,Rent,-136.94
+274,2025-10-04,Brew Bros,Rent,-73.9
+275,2025-05-25,PG&E,Income,2046.54
+276,2025-05-13,Safeway,Food & Drink,-16.11
+277,2025-06-14,Spotify,Entertainment,-5.61
+278,2025-08-01,Brew Bros,Food & Drink,-106.57
+279,2025-06-28,Lyft,Other,-128.89
+280,2025-10-18,Uber,Transportation,-106.75
+281,2025-11-02,Spotify,Transportation,-86.44
+282,2025-10-08,Safeway,Groceries,-20.43
+283,2025-09-10,Lyft,Entertainment,-188.41
+284,2025-07-25,Market,Groceries,-179.48
+285,2025-06-11,Lyft,Food & Drink,-4.72
+286,2025-07-03,Lyft,Transportation,-8.83
+287,2025-09-03,MusicBox,Food & Drink,-144.12
+288,2025-08-15,CoffeeHouse,Income,1298.8
+289,2025-09-24,Market,Groceries,-162.7
+290,2025-05-12,MusicBox,Transportation,-123.16
+291,2025-09-16,Lyft,Utilities,-118.65
+292,2025-05-31,Netflix,Rent,-65.08
+293,2025-08-16,Netflix,Other,-94.67
+294,2025-08-30,PG&E,Other,-180.37
+295,2025-07-11,CoffeeHouse,Rent,-193.54
+296,2025-09-01,Safeway,Entertainment,-39.05
+297,2025-09-11,Costco,Rent,-169.16
+298,2025-05-13,Market,Income,3062.79
+299,2025-07-01,Uber,Utilities,-54.74
+300,2025-09-29,Safeway,Groceries,-22.09
+301,2025-07-20,Safeway,Groceries,-185.0
+302,2025-05-23,Safeway,Groceries,-147.33
+303,2025-06-02,PG&E,Utilities,-27.86
+304,2025-08-05,Market,Other,-62.26
+305,2025-07-08,Uber,Utilities,-19.09
+306,2025-08-09,PowerCo,Transportation,-9.75
+307,2025-10-21,PG&E,Other,-84.6
+308,2025-05-29,Costco,Rent,-77.41
+309,2025-11-07,Lyft,Transportation,-112.98
+310,2025-10-28,Netflix,Entertainment,-91.42
+311,2025-09-19,Lyft,Income,2290.15
+312,2025-09-20,Safeway,Groceries,-130.65
+313,2025-06-21,Netflix,Subscriptions,-124.32
+314,2025-06-16,Safeway,Transportation,-172.11
+315,2025-08-12,MusicBox,Subscriptions,-151.88
+316,2025-08-28,Spotify,Other,-140.32
+317,2025-05-25,Costco,Utilities,-142.38
+318,2025-05-12,Brew Bros,Transportation,-195.18
+319,2025-09-26,CoffeeHouse,Subscriptions,-21.44
+320,2025-05-30,Safeway,Subscriptions,-6.67
+321,2025-06-03,Market,Food & Drink,-117.95
+322,2025-06-10,Market,Groceries,-50.26
+323,2025-10-16,Brew Bros,Entertainment,-57.92
+324,2025-06-09,Friends Cafe,Entertainment,-37.76
+325,2025-10-22,CoffeeHouse,Rent,-30.31
+326,2025-07-24,Costco,Income,1249.74
+327,2025-06-26,PowerCo,Entertainment,-147.66
+328,2025-08-09,Brew Bros,Income,1278.44
+329,2025-10-14,Market,Food & Drink,-122.11
+330,2025-09-24,Friends Cafe,Other,-61.81
+331,2025-06-16,CoffeeHouse,Food & Drink,-35.05
+332,2025-08-28,PG&E,Transportation,-96.33
+333,2025-08-21,Costco,Groceries,-178.58
+334,2025-08-14,Netflix,Subscriptions,-104.95
+335,2025-06-27,Costco,Entertainment,-54.02
+336,2025-07-31,Market,Utilities,-81.73
+337,2025-09-08,Costco,Groceries,-148.83
+338,2025-08-20,Market,Groceries,-112.91
+339,2025-08-19,Safeway,Other,-41.57
+340,2025-09-13,PG&E,Transportation,-11.19
+341,2025-11-03,Spotify,Income,2388.0
+342,2025-11-08,Spotify,Entertainment,-168.25
+343,2025-07-16,PG&E,Transportation,-134.93
+344,2025-10-08,Market,Rent,-165.23
+345,2025-09-03,Spotify,Transportation,-54.92
+346,2025-08-20,CoffeeHouse,Rent,-69.67
+347,2025-07-07,Spotify,Food & Drink,-22.25
+348,2025-06-18,Uber,Food & Drink,-187.14
+349,2025-11-08,Costco,Utilities,-36.03
+350,2025-10-26,Lyft,Transportation,-52.51
+351,2025-08-03,Market,Groceries,-116.42
+352,2025-05-13,PowerCo,Utilities,-193.91
+353,2025-06-25,Market,Food & Drink,-93.21
+354,2025-05-21,Market,Groceries,-105.07
+355,2025-07-26,Costco,Income,1043.38
+356,2025-05-12,Costco,Groceries,-157.73
+357,2025-08-20,PG&E,Food & Drink,-41.03
+358,2025-08-03,Costco,Subscriptions,-163.88
+359,2025-06-13,Lyft,Other,-185.58
+360,2025-08-31,Safeway,Groceries,-16.53
+361,2025-05-19,Friends Cafe,Income,2109.54
+362,2025-08-07,Brew Bros,Rent,-39.76
+363,2025-07-10,PowerCo,Rent,-157.51
+364,2025-09-26,MusicBox,Transportation,-72.15
+365,2025-10-24,PG&E,Food & Drink,-85.76
+366,2025-08-22,Uber,Subscriptions,-190.03
+367,2025-07-05,Costco,Rent,-92.23
+368,2025-06-06,Market,Groceries,-76.52
+369,2025-08-23,PowerCo,Income,3777.23
+370,2025-08-02,CoffeeHouse,Transportation,-167.06
+371,2025-07-11,Safeway,Subscriptions,-17.31
+372,2025-09-20,Market,Groceries,-39.53
+373,2025-06-29,Brew Bros,Entertainment,-14.73
+374,2025-10-26,Costco,Groceries,-65.63
+375,2025-05-29,PowerCo,Transportation,-192.45
+376,2025-08-27,Brew Bros,Transportation,-174.68
+377,2025-10-26,Netflix,Other,-133.94
+378,2025-06-15,Costco,Entertainment,-155.42
+379,2025-06-04,CoffeeHouse,Transportation,-105.45
+380,2025-07-01,Lyft,Other,-46.83
+381,2025-09-16,Market,Groceries,-97.68
+382,2025-05-15,Lyft,Income,1654.51
+383,2025-06-23,CoffeeHouse,Other,-47.65
+384,2025-06-27,Netflix,Utilities,-91.93
+385,2025-08-15,Uber,Transportation,-57.68
+386,2025-10-25,Safeway,Transportation,-86.78
+387,2025-11-08,Lyft,Subscriptions,-131.49
+388,2025-05-22,Costco,Utilities,-156.81
+389,2025-11-07,Lyft,Transportation,-66.61
+390,2025-08-17,Brew Bros,Other,-182.48
+391,2025-09-22,PowerCo,Rent,-69.26
+392,2025-08-06,Friends Cafe,Food & Drink,-154.04
+393,2025-05-19,Netflix,Utilities,-14.83
+394,2025-07-18,PowerCo,Rent,-162.68
+395,2025-06-04,Brew Bros,Subscriptions,-174.95
+396,2025-06-07,CoffeeHouse,Food & Drink,-84.82
+397,2025-05-24,Costco,Groceries,-99.81
+398,2025-07-23,PowerCo,Utilities,-108.27
+399,2025-07-01,Safeway,Food & Drink,-168.08
+400,2025-07-26,Safeway,Groceries,-77.54
+401,2025-06-14,Market,Groceries,-147.74
+402,2025-07-05,Brew Bros,Rent,-99.48
+403,2025-06-17,Costco,Food & Drink,-87.33
+404,2025-06-09,PG&E,Rent,-180.72
+405,2025-08-25,Lyft,Subscriptions,-23.45
+406,2025-10-26,Market,Groceries,-159.22
+407,2025-10-24,Market,Groceries,-54.42
+408,2025-05-20,Costco,Food & Drink,-143.27
+409,2025-10-06,Costco,Groceries,-18.01
+410,2025-08-19,Safeway,Rent,-17.89
+411,2025-05-24,Safeway,Rent,-111.14
+412,2025-06-07,Lyft,Transportation,-154.72
+413,2025-07-25,Costco,Subscriptions,-113.06
+414,2025-06-16,Uber,Rent,-136.09
+415,2025-07-18,Safeway,Groceries,-75.12
+416,2025-08-16,CoffeeHouse,Income,1479.84
+417,2025-06-30,Safeway,Groceries,-155.12
+418,2025-07-03,Lyft,Subscriptions,-153.2
+419,2025-06-26,Costco,Rent,-20.79
+420,2025-06-25,MusicBox,Food & Drink,-41.02
+421,2025-10-26,Costco,Groceries,-61.14
+422,2025-06-27,Friends Cafe,Transportation,-15.32
+423,2025-10-24,Brew Bros,Subscriptions,-179.54
+424,2025-07-15,MusicBox,Subscriptions,-18.21
+425,2025-09-15,Market,Groceries,-110.61
+426,2025-07-18,Friends Cafe,Income,2876.95
+427,2025-07-11,Costco,Groceries,-151.81
+428,2025-07-26,Brew Bros,Rent,-132.95
+429,2025-07-22,Spotify,Income,2865.54
+430,2025-10-13,Costco,Groceries,-73.95
+431,2025-05-26,CoffeeHouse,Transportation,-191.9
+432,2025-08-25,Brew Bros,Utilities,-8.19
+433,2025-10-28,Spotify,Entertainment,-44.35
+434,2025-09-07,Costco,Groceries,-45.14
+435,2025-09-16,Costco,Groceries,-92.69
+436,2025-10-29,Uber,Transportation,-179.74
+437,2025-08-16,PowerCo,Food & Drink,-164.22
+438,2025-09-14,CoffeeHouse,Rent,-183.33
+439,2025-07-12,Market,Transportation,-102.33
+440,2025-11-07,Market,Groceries,-44.63
+441,2025-06-22,Netflix,Other,-17.13
+442,2025-10-25,Netflix,Food & Drink,-40.16
+443,2025-11-08,CoffeeHouse,Rent,-78.43
+444,2025-06-23,Brew Bros,Food & Drink,-46.37
+445,2025-06-04,Market,Rent,-3.57
+446,2025-10-22,Uber,Entertainment,-162.78
+447,2025-06-19,Safeway,Groceries,-165.39
+448,2025-09-16,Market,Transportation,-128.44
+449,2025-09-03,Spotify,Transportation,-49.25
+450,2025-09-30,Netflix,Food & Drink,-104.24
+451,2025-09-22,PG&E,Food & Drink,-194.4
+452,2025-11-03,Safeway,Groceries,-80.09
+453,2025-06-30,Brew Bros,Entertainment,-47.42
+454,2025-07-01,CoffeeHouse,Transportation,-37.93
+455,2025-10-03,Uber,Rent,-18.18
+456,2025-09-20,Friends Cafe,Income,3814.89
+457,2025-05-17,Friends Cafe,Other,-125.31
+458,2025-05-13,Spotify,Transportation,-41.11
+459,2025-08-09,CoffeeHouse,Food & Drink,-66.8
+460,2025-06-10,Lyft,Food & Drink,-132.42
+461,2025-07-21,Uber,Income,3991.14
+462,2025-09-26,Costco,Groceries,-112.84
+463,2025-08-28,Market,Entertainment,-174.85
+464,2025-10-20,Brew Bros,Entertainment,-32.02
+465,2025-07-13,Market,Groceries,-156.7
+466,2025-08-23,Netflix,Food & Drink,-125.86
+467,2025-09-17,Safeway,Groceries,-79.26
+468,2025-07-25,PowerCo,Entertainment,-26.87
+469,2025-10-21,MusicBox,Subscriptions,-8.98
+470,2025-07-15,PowerCo,Subscriptions,-17.12
+471,2025-08-21,CoffeeHouse,Subscriptions,-53.68
+472,2025-08-20,PowerCo,Transportation,-48.83
+473,2025-08-09,Uber,Transportation,-71.96
+474,2025-06-05,MusicBox,Food & Drink,-55.34
+475,2025-10-31,Costco,Groceries,-170.82
+476,2025-09-22,Uber,Subscriptions,-129.09
+477,2025-05-30,Safeway,Groceries,-48.9
+478,2025-10-14,PG&E,Utilities,-2.03
+479,2025-06-19,Netflix,Utilities,-186.96
+480,2025-10-30,Safeway,Groceries,-66.31
+481,2025-09-03,Friends Cafe,Subscriptions,-7.91
+482,2025-10-30,Market,Groceries,-32.83
+483,2025-05-31,Spotify,Food & Drink,-19.26
+484,2025-06-13,Netflix,Food & Drink,-171.44
+485,2025-06-25,Safeway,Food & Drink,-64.77
+486,2025-07-24,Market,Subscriptions,-18.48
+487,2025-07-09,MusicBox,Other,-69.81
+488,2025-11-03,PG&E,Transportation,-131.16
+489,2025-06-03,Costco,Groceries,-184.88
+490,2025-10-06,Spotify,Transportation,-168.71
+491,2025-10-21,MusicBox,Transportation,-5.05
+492,2025-05-26,Friends Cafe,Rent,-98.23
+493,2025-09-19,Costco,Groceries,-107.39
+494,2025-06-04,Uber,Other,-122.25
+495,2025-06-14,PowerCo,Transportation,-119.38
+496,2025-08-19,CoffeeHouse,Transportation,-52.64
+497,2025-08-02,Spotify,Rent,-115.57
+498,2025-09-09,Costco,Groceries,-59.95
+499,2025-11-06,Uber,Utilities,-102.94
+500,2025-07-10,Spotify,Subscriptions,-158.32
+501,2025-06-20,Brew Bros,Subscriptions,-138.59
+502,2025-07-25,PG&E,Transportation,-18.74
+503,2025-08-08,MusicBox,Rent,-105.21
+504,2025-09-25,Market,Groceries,-178.65
+505,2025-11-02,Friends Cafe,Entertainment,-9.12
+506,2025-06-12,Costco,Transportation,-197.14
+507,2025-08-09,PG&E,Food & Drink,-109.11
+508,2025-06-09,Lyft,Entertainment,-57.98
+509,2025-09-30,CoffeeHouse,Subscriptions,-188.24
+510,2025-05-29,Brew Bros,Entertainment,-61.65
+511,2025-06-07,MusicBox,Entertainment,-107.74
+512,2025-10-28,Uber,Transportation,-17.27
+513,2025-06-12,PG&E,Income,2780.23
+514,2025-06-06,Costco,Food & Drink,-180.29
+515,2025-07-29,Brew Bros,Utilities,-52.34
+516,2025-07-18,Uber,Subscriptions,-50.81
+517,2025-09-30,Uber,Rent,-118.33
+518,2025-10-29,PG&E,Transportation,-104.73
+519,2025-05-13,Lyft,Income,2755.02
+520,2025-05-24,Brew Bros,Food & Drink,-77.89
+521,2025-05-30,MusicBox,Utilities,-41.18
+522,2025-05-26,MusicBox,Utilities,-127.11
+523,2025-09-05,Costco,Groceries,-138.62
+524,2025-11-05,CoffeeHouse,Food & Drink,-38.8
+525,2025-10-04,Market,Groceries,-7.53
+526,2025-06-15,PG&E,Food & Drink,-65.12
+527,2025-08-07,PowerCo,Transportation,-70.27
+528,2025-09-17,Market,Groceries,-53.91
+529,2025-09-19,Friends Cafe,Transportation,-100.49
+530,2025-07-28,PowerCo,Rent,-75.49
+531,2025-07-05,CoffeeHouse,Food & Drink,-178.27
+532,2025-08-08,Costco,Utilities,-77.91
+533,2025-07-20,Uber,Transportation,-126.49
+534,2025-06-29,Costco,Other,-198.52
+535,2025-05-21,PowerCo,Income,1455.31
+536,2025-08-08,Uber,Other,-192.8
+537,2025-07-16,Spotify,Transportation,-94.5
+538,2025-05-12,Brew Bros,Utilities,-51.43
+539,2025-09-11,PG&E,Transportation,-137.49
+540,2025-09-18,Netflix,Food & Drink,-10.31
+541,2025-05-26,Costco,Groceries,-100.77
+542,2025-09-11,PG&E,Rent,-97.17
+543,2025-09-11,Market,Groceries,-177.72
+544,2025-11-01,CoffeeHouse,Rent,-109.38
+545,2025-06-24,Costco,Other,-165.3
+546,2025-10-28,PG&E,Utilities,-194.41
+547,2025-06-23,Lyft,Transportation,-29.79
+548,2025-10-17,Safeway,Groceries,-66.77
+549,2025-09-07,Lyft,Entertainment,-196.64
+550,2025-09-28,CoffeeHouse,Income,3784.82
+551,2025-07-09,Brew Bros,Food & Drink,-51.15
+552,2025-10-04,Uber,Subscriptions,-72.49
+553,2025-10-17,Market,Other,-100.28
+554,2025-10-24,Market,Rent,-185.86
+555,2025-05-18,Lyft,Food & Drink,-94.69
+556,2025-07-29,Safeway,Groceries,-137.91
+557,2025-05-25,Brew Bros,Transportation,-121.54
+558,2025-06-06,Market,Transportation,-178.33
+559,2025-07-23,Safeway,Subscriptions,-74.26
+560,2025-09-08,Costco,Groceries,-6.0
+561,2025-08-21,PG&E,Income,2155.02
+562,2025-05-15,Safeway,Groceries,-124.97
+563,2025-08-09,Costco,Other,-74.72
+564,2025-09-26,Friends Cafe,Food & Drink,-58.42
+565,2025-08-30,Uber,Rent,-25.4
+566,2025-11-05,PowerCo,Food & Drink,-180.12
+567,2025-11-03,Safeway,Other,-84.72
+568,2025-09-11,CoffeeHouse,Income,3981.05
+569,2025-08-27,Safeway,Utilities,-3.36
+570,2025-09-16,Brew Bros,Food & Drink,-44.98
+571,2025-07-27,Lyft,Income,1423.45
+572,2025-06-09,Safeway,Utilities,-130.82
+573,2025-08-14,Market,Groceries,-193.57
+574,2025-07-21,Friends Cafe,Subscriptions,-195.48
+575,2025-08-16,Spotify,Food & Drink,-62.61
+576,2025-07-29,Spotify,Other,-190.04
+577,2025-07-16,Safeway,Subscriptions,-44.18
+578,2025-06-07,Market,Groceries,-76.37
+579,2025-10-24,Uber,Transportation,-81.64
+580,2025-08-24,Netflix,Other,-120.91
+581,2025-08-06,Friends Cafe,Food & Drink,-151.79
+582,2025-09-20,Spotify,Utilities,-115.84
+583,2025-11-04,Friends Cafe,Income,3172.07
+584,2025-05-19,Safeway,Utilities,-46.16
+585,2025-05-15,Costco,Groceries,-173.68
+586,2025-05-19,Lyft,Food & Drink,-125.62
+587,2025-06-19,CoffeeHouse,Income,1577.79
+588,2025-11-08,Safeway,Groceries,-120.07
+589,2025-11-07,Uber,Transportation,-12.53
+590,2025-05-18,PowerCo,Subscriptions,-132.96
+591,2025-11-07,CoffeeHouse,Food & Drink,-135.14
+592,2025-07-02,Safeway,Entertainment,-115.84
+593,2025-10-07,Costco,Groceries,-49.12
+594,2025-08-30,Brew Bros,Utilities,-142.26
+595,2025-05-24,Friends Cafe,Food & Drink,-79.71
+596,2025-07-22,CoffeeHouse,Subscriptions,-72.93
+597,2025-07-25,Uber,Income,1380.16
+598,2025-07-31,MusicBox,Food & Drink,-16.24
+599,2025-07-19,PG&E,Other,-139.23
+600,2025-07-26,Netflix,Subscriptions,-15.75
+601,2025-10-14,Lyft,Food & Drink,-93.39
+602,2025-10-12,Lyft,Food & Drink,-191.17
+603,2025-10-24,Costco,Utilities,-28.99
+604,2025-08-05,PowerCo,Food & Drink,-74.3
+605,2025-07-21,Uber,Income,3645.17
+606,2025-06-16,PowerCo,Food & Drink,-75.16
+607,2025-06-15,Netflix,Income,1959.96
+608,2025-08-28,PG&E,Income,1531.1
+609,2025-06-22,Market,Rent,-143.52
+610,2025-05-18,Lyft,Entertainment,-50.12
+611,2025-07-10,Lyft,Transportation,-150.78
+612,2025-05-14,Uber,Entertainment,-64.46
+613,2025-10-22,Brew Bros,Transportation,-199.41
+614,2025-10-17,Lyft,Transportation,-146.7
+615,2025-08-02,CoffeeHouse,Food & Drink,-62.21
+616,2025-08-31,PG&E,Food & Drink,-52.6
+617,2025-10-15,Costco,Other,-101.97
+618,2025-10-02,Costco,Food & Drink,-155.84
+619,2025-10-27,Spotify,Food & Drink,-47.19
+620,2025-05-12,Spotify,Food & Drink,-36.95
+621,2025-08-13,Spotify,Utilities,-39.21
+622,2025-07-25,Costco,Groceries,-94.46
+623,2025-06-01,Spotify,Subscriptions,-30.58
+624,2025-08-31,Spotify,Food & Drink,-74.62
+625,2025-06-16,Brew Bros,Food & Drink,-101.24
+626,2025-10-18,PG&E,Food & Drink,-197.07
+627,2025-08-29,PowerCo,Subscriptions,-133.14
+628,2025-07-21,MusicBox,Income,1518.27
+629,2025-11-03,Lyft,Rent,-21.86
+630,2025-09-27,MusicBox,Rent,-165.79
+631,2025-09-04,PowerCo,Food & Drink,-103.74
+632,2025-07-27,MusicBox,Food & Drink,-87.33
+633,2025-08-25,MusicBox,Utilities,-160.66
+634,2025-11-04,PowerCo,Transportation,-110.7
+635,2025-09-26,Friends Cafe,Transportation,-199.28
+636,2025-08-07,Brew Bros,Rent,-114.12
+637,2025-05-25,Friends Cafe,Rent,-39.87
+638,2025-06-24,Lyft,Entertainment,-150.11
+639,2025-10-30,Brew Bros,Entertainment,-6.22
+640,2025-07-21,Market,Utilities,-99.8
+641,2025-06-26,Brew Bros,Rent,-197.57
+642,2025-08-18,Market,Entertainment,-20.34
+643,2025-07-03,Friends Cafe,Transportation,-115.18
+644,2025-07-05,Uber,Subscriptions,-139.1
+645,2025-05-27,Lyft,Utilities,-119.48
+646,2025-08-11,Market,Food & Drink,-180.56
+647,2025-07-25,Brew Bros,Food & Drink,-120.38
+648,2025-09-25,MusicBox,Food & Drink,-68.49
+649,2025-10-24,Friends Cafe,Rent,-11.94
+650,2025-10-29,PG&E,Transportation,-168.77
+651,2025-10-12,Uber,Income,2138.71
+652,2025-10-30,Spotify,Subscriptions,-75.57
+653,2025-08-04,Brew Bros,Food & Drink,-170.26
+654,2025-05-13,Brew Bros,Other,-45.22
+655,2025-09-12,CoffeeHouse,Utilities,-53.3
+656,2025-05-20,PowerCo,Food & Drink,-73.2
+657,2025-10-26,Safeway,Groceries,-113.42
+658,2025-09-01,MusicBox,Rent,-103.67
+659,2025-07-28,Market,Subscriptions,-71.96
+660,2025-08-14,Costco,Groceries,-16.49
+661,2025-07-28,Costco,Food & Drink,-189.76
+662,2025-06-03,PG&E,Rent,-22.25
+663,2025-09-04,Lyft,Transportation,-14.34
+664,2025-10-10,Market,Groceries,-16.47
+665,2025-08-05,Netflix,Income,1455.84
+666,2025-08-28,CoffeeHouse,Rent,-99.82
+667,2025-08-12,Market,Groceries,-192.29
+668,2025-06-22,Spotify,Subscriptions,-135.88
+669,2025-07-22,PowerCo,Food & Drink,-196.53
+670,2025-10-04,Spotify,Food & Drink,-34.87
+671,2025-07-15,Netflix,Subscriptions,-58.71
+672,2025-10-03,Netflix,Food & Drink,-75.15
+673,2025-06-25,Safeway,Rent,-128.31
+674,2025-06-12,Brew Bros,Rent,-188.47
+675,2025-07-16,Safeway,Subscriptions,-164.22
+676,2025-08-31,Friends Cafe,Transportation,-158.35
+677,2025-08-24,Costco,Groceries,-149.98
+678,2025-05-26,Brew Bros,Entertainment,-50.15
+679,2025-10-07,Market,Utilities,-51.4
+680,2025-07-05,Friends Cafe,Income,3002.78
+681,2025-08-30,PG&E,Food & Drink,-90.77
+682,2025-11-08,Costco,Groceries,-70.85
+683,2025-08-02,MusicBox,Entertainment,-58.17
+684,2025-08-29,Market,Groceries,-58.24
+685,2025-06-26,Netflix,Rent,-120.58
+686,2025-10-18,Netflix,Utilities,-73.02
+687,2025-08-12,PowerCo,Rent,-42.64
+688,2025-10-29,Safeway,Food & Drink,-21.5
+689,2025-06-07,Market,Groceries,-186.08
+690,2025-08-31,Lyft,Food & Drink,-21.96
+691,2025-08-16,Brew Bros,Transportation,-55.78
+692,2025-11-02,MusicBox,Rent,-188.94
+693,2025-08-06,Safeway,Groceries,-97.63
+694,2025-09-06,Friends Cafe,Food & Drink,-186.21
+695,2025-07-22,Uber,Other,-145.45
+696,2025-06-14,Netflix,Income,1699.05
+697,2025-07-20,Netflix,Income,3334.31
+698,2025-09-02,Netflix,Rent,-138.75
+699,2025-06-10,Costco,Income,996.85
+700,2025-08-06,Netflix,Rent,-111.71
+701,2025-06-30,Costco,Groceries,-80.26
+702,2025-05-31,Market,Utilities,-150.11
+703,2025-08-24,Lyft,Other,-98.04
+704,2025-05-16,Brew Bros,Income,1471.26
+705,2025-05-28,CoffeeHouse,Income,2523.67
+706,2025-10-29,Costco,Food & Drink,-92.89
+707,2025-10-23,Market,Transportation,-58.59
+708,2025-08-13,Costco,Groceries,-55.74
+709,2025-05-23,PowerCo,Subscriptions,-65.21
+710,2025-09-07,Costco,Groceries,-71.35
+711,2025-06-01,MusicBox,Income,3256.37
+712,2025-09-01,CoffeeHouse,Subscriptions,-37.59
+713,2025-07-21,Market,Groceries,-95.65
+714,2025-09-06,Brew Bros,Utilities,-54.91
+715,2025-08-18,Uber,Transportation,-26.55
+716,2025-05-16,Costco,Transportation,-21.96
+717,2025-07-23,PowerCo,Food & Drink,-78.96
+718,2025-07-10,Costco,Groceries,-180.47
+719,2025-10-16,PowerCo,Food & Drink,-130.59
+720,2025-05-21,Spotify,Rent,-108.63
+721,2025-09-26,PowerCo,Rent,-48.77
+722,2025-10-26,PowerCo,Other,-150.5
+723,2025-10-07,MusicBox,Other,-153.48
+724,2025-10-31,MusicBox,Subscriptions,-174.21
+725,2025-10-01,Brew Bros,Other,-147.0
+726,2025-05-22,Costco,Groceries,-168.14
+727,2025-06-10,Spotify,Transportation,-148.38
+728,2025-05-25,Friends Cafe,Rent,-98.5
+729,2025-06-14,CoffeeHouse,Subscriptions,-53.72
+730,2025-09-10,PG&E,Food & Drink,-50.53
+731,2025-09-01,Friends Cafe,Rent,-65.36
+732,2025-06-27,PowerCo,Transportation,-105.57
+733,2025-09-25,Safeway,Groceries,-144.34
+734,2025-08-04,PG&E,Subscriptions,-32.14
+735,2025-07-20,MusicBox,Rent,-24.5
+736,2025-08-09,Safeway,Entertainment,-140.42
+737,2025-07-13,Lyft,Rent,-34.86
+738,2025-09-14,Safeway,Groceries,-187.35
+739,2025-10-28,Safeway,Other,-165.2
+740,2025-10-17,Lyft,Other,-60.23
+741,2025-07-19,Friends Cafe,Income,1413.79
+742,2025-09-07,PG&E,Rent,-96.86
+743,2025-07-08,Uber,Rent,-15.45
+744,2025-08-17,CoffeeHouse,Food & Drink,-130.32
+745,2025-10-02,Uber,Food & Drink,-11.87
+746,2025-09-20,Spotify,Utilities,-7.86
+747,2025-05-25,Uber,Rent,-109.25
+748,2025-10-08,Brew Bros,Transportation,-122.91
+749,2025-07-10,Spotify,Rent,-105.95
+750,2025-09-14,Friends Cafe,Other,-38.58
+751,2025-05-17,Safeway,Rent,-29.48
+752,2025-09-25,Brew Bros,Utilities,-133.71
+753,2025-06-04,Lyft,Utilities,-148.78
+754,2025-10-04,Uber,Food & Drink,-151.34
+755,2025-10-16,MusicBox,Rent,-56.94
+756,2025-10-26,Friends Cafe,Income,989.7
+757,2025-08-07,Costco,Subscriptions,-64.5
+758,2025-10-13,Market,Groceries,-104.72
+759,2025-09-29,Costco,Food & Drink,-42.45
+760,2025-07-07,CoffeeHouse,Other,-78.5
+761,2025-09-16,PowerCo,Other,-54.0
+762,2025-10-27,PowerCo,Food & Drink,-186.6
+763,2025-07-22,Safeway,Utilities,-50.39
+764,2025-08-17,Netflix,Utilities,-104.99
+765,2025-09-15,MusicBox,Food & Drink,-32.3
+766,2025-10-10,PowerCo,Rent,-110.56
+767,2025-09-25,MusicBox,Income,2074.04
+768,2025-05-27,Market,Income,3322.01
+769,2025-07-06,Spotify,Subscriptions,-55.08
+770,2025-09-07,Netflix,Transportation,-129.21
+771,2025-07-01,PowerCo,Other,-18.25
+772,2025-08-02,CoffeeHouse,Food & Drink,-24.91
+773,2025-06-11,Uber,Food & Drink,-25.08
+774,2025-07-27,Safeway,Income,3858.2
+775,2025-09-18,Costco,Groceries,-73.72
+776,2025-05-28,Lyft,Food & Drink,-136.55
+777,2025-10-31,Lyft,Food & Drink,-145.08
+778,2025-10-24,Brew Bros,Rent,-98.33
+779,2025-08-11,Safeway,Groceries,-171.18
+780,2025-08-16,Costco,Entertainment,-23.47
+781,2025-11-04,Lyft,Transportation,-134.44
+782,2025-09-21,Spotify,Subscriptions,-76.07
+783,2025-07-18,Spotify,Rent,-166.21
+784,2025-06-09,Uber,Subscriptions,-113.64
+785,2025-06-14,Lyft,Other,-114.73
+786,2025-07-19,Costco,Entertainment,-186.51
+787,2025-11-07,Market,Rent,-112.95
+788,2025-08-23,Safeway,Groceries,-107.38
+789,2025-11-06,Safeway,Food & Drink,-49.91
+790,2025-06-28,PowerCo,Rent,-97.14
+791,2025-09-06,Safeway,Groceries,-170.24
+792,2025-08-22,Lyft,Food & Drink,-180.15
+793,2025-08-24,Costco,Entertainment,-120.03
+794,2025-10-31,Market,Income,1713.11
+795,2025-10-15,Friends Cafe,Entertainment,-199.92
+796,2025-10-16,Safeway,Groceries,-19.36
+797,2025-07-12,Safeway,Groceries,-100.6
+798,2025-06-26,Costco,Groceries,-18.44
+799,2025-09-29,Spotify,Income,1038.0
+800,2025-09-15,Spotify,Transportation,-7.53
