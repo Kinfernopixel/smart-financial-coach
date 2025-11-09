@@ -27,10 +27,10 @@ Built with React (Vite), FastAPI, and Docker, it provides a modular and extensib
 
 ---
 
-## ⚙️ Setup Instructions
+Setup Instructions
 
-### 1️⃣ Clone the repository
-```bash
+Clone the repository
+
 git clone https://github.com/Kinfernopixel/smart-financial-coach.git
 cd smart-financial-coach
 
